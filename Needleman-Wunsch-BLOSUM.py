@@ -1,21 +1,27 @@
+#Imports
 import numpy as np
 
+#Initialising an array of amino acid keys for reference
 amino_array = ['A','R','N','D','C','Q','E','G','H','I','L','K','M','F','P','S','T','W','Y','V','B','Z','X']
 
+#Reading BLOSUM62 substitution values from a text file
+# and inputting into a 2d array
 f = open('BLOSUM.txt', 'r')
-g = f.read().splitlines()
+g = f.read().splitlines() #splitting text file into lines
 
 for i in range(22):
-    g[i] = [int(j) for j in g[i].split()]
+    g[i] = [int(j) for j in g[i].split()] #converting each line to an array of ints
 
 BLOSUM62 = g
 f.close()
 
+#A function for calculating the value diagonal to a given element in the matrix
 def diagonal(n1, n2, substitution):
-    A1 = amino_array.index(n1)
+    A1 = amino_array.index(n1) #finding the index of key in amino acid array
     A2 = amino_array.index(n2)
-    return substitution[A1][A2]
+    return substitution[A1][A2] #return substitution value from BLOSUM62
 
+#A function for calculating the direction of the path needed for backtracking
 def pointers(di, ho, ve):
     pointer = max(di, ho, ve)
 
@@ -26,6 +32,7 @@ def pointers(di, ho, ve):
     elif (ve == pointer):
         return 'V'
 
+#Constructing the matrices and calculating the final score
 def nw_blosum62(s1, s2, gap, substitution) :
     gap_penalty = gap # Penalty value
 
