@@ -1,0 +1,15 @@
+1496. PGY MEDIUM
+
+Tryptone                                    5.0    g
+Yeast extract                               3.0    g
+D-Glucose                                   1.0    g
+Agar                                       15.0    g
+Distilled water                          1000.0   ml
+
+Adjust to pH 7.0
+
+
+
+
+© 2008 DSMZ GmbH - All rights reserved
+

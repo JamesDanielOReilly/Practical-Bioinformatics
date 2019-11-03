@@ -1,0 +1,46 @@
+1611. YCFA MEDIUM (modified)
+
+Casitone                                                        10.00       g
+Yeast extract                                                    2.50       g
+Glucose                                                          5.00       g
+MgSO4 x 7 H2O                                                   45.00      mg
+CaCl2 x 2 H2O                                                   90.00      mg
+K2HPO4                                                           0.45       g
+KH2PO4                                                           0.45       g
+NaCl                                                              0.9       g
+Resazurin                                                         1.0      mg
+Distilled water                                               1000.00      ml
+NaHCO3                                                           4.00       g
+L-Cysteine-HCl                                                   1.00       g
+Hemin                                                           10.00      mg
+
+Volatile fatty acids:
+ Acetic acid                                                     1.90       ml
+ Propionic acid                                                  0.70       ml
+ iso-Butyric acid                                               90.00       µl
+ n-Valeric acid                                                100.00       µl
+ iso-Valeric acid                                              100.00       µl
+
+Vitamin solution:
+ Biotin                                                          2.00      mg
+ Folic acid                                                      2.00      mg
+ Pyridoxine-HCl                                                 10.00      mg
+ Thiamine-HCl x 2 H2O                                            5.00      mg
+ Riboflavin                                                      5.00      mg
+ Nicotinic acid                                                  5.00      mg
+ D-Ca-pantothenate                                               5.00      mg
+ Vitamin B12                                                     0.10      mg
+ p-Aminobenzoic acid                                             5.00      mg
+ Lipoic acid                                                     5.00      mg
+ Distilled water                                              1000.00      ml
+
+Dissolve ingredients except NaHCO3, hemin, cysteine in water and boil for 10 min, then
+cool to room temperature while gassing with 100% CO2.Add the NaHCO3, hemin,
+cysteine and adjust pH to 6.7 -6.8. Distribute under N2 into Hungate tubes (10 ml) and
+autoclave. Filter sterilize vitamin solution and aseptically add 100 µl per Hungate tube.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

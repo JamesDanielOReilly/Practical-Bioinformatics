@@ -1,0 +1,43 @@
+1583. MEDIUM FOR AMMONIA OXIDIZING BACTERIA
+      (STRAINS FROM SOIL)
+
+
+Solution A:
+NH4Cl                                                              535      mg
+KH2PO4                                                              54      mg
+KCl                                                                 74      mg
+MgSO4 x 7 H2O                                                       49      mg
+CaCl2 x 2 H2O                                                      147      mg
+NaCl                                                               584      mg
+Trace element solution                                               1      ml
+Cresol red solution                                                  2      ml
+Distilled water                                                ad 1000      ml
+
+Autoclave, subsequently adjust pH of the medium to about 7.8 by addition of sterile
+10% NaHCO3 (medium is turning from yellow to pink).
+Important: During growth, add NaHCO3 to readjust pH as soon as pH indicator changes
+to yellow. For stock cultures, 5 g l-1 CaCO3 (will stay as a precipitate) or 4.8 g l-1 HEPES
+may be added to keep pH neutral for a longer time.
+Aeration must be adjusted according to the density and activity of the culture. At low cell
+concentrations (which is the case most of the time) cells are sensitive to strong aeration
+(don’t shake the cultures).
+
+Trace element solution
+Distilled water                                                     975     ml
+ HCl, 1M                                                             25     ml
+ MnSO4 x 4 H2O                                                       45     mg
+ H3BO3                                                               49     mg
+ ZnSO4 x 7 H2O                                                       43     mg
+ (NH4)6 Mo7O24 x 4 H2O                                               37     mg
+ FeSO4 x 7 H2O                                                      973     mg
+ CuSO4 x 5 H2O                                                       25     mg
+
+Cresol red solution
+Cresol red                                                           50     mg
+Distilled water                                                     100     ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,80 @@
+1650: Medium for Strain J5B
+
+Na2S2O3x5H2O                                                    2.50       g
+NaNO3                                                           0.85       g
+MgSO4 x 7 H2O                                                   0.50       g
+CaCl2 x 2 H2O                                                   0.10       g
+KH2PO4                                                          0.10       g
+NH4Cl                                                           0.10       g
+KCl                                                             0.10       g
+Trace element solution (see below)                              1.00      ml
+Selenite-tungstate solution (see below)                         1.00      ml
+Distilled water                                              1000.00      ml
+
+Adjust pH 7.0-7.2.
+Dispense the medium into sterile bottles. Fill 6 ml medium in 15 ml tubes, fill the
+headspace with a mixture of N2/CO2 (80:20) and seal the bottles with butyl rubber
+stoppers . Autoclave at 121C for 15 min.
+Add following solutions aseptically: 1 M Bicarbonate solution (see below) 30 ml,
+Vitamin solution (see below) 1 ml, 1 M acetate solution (see below) 1 ml.
+Adjust pH 7.0-7.2
+
+
+
+Trace Element Solution:
+ HCl (25%)                                                    12.500      ml
+ FeSO4 x 7 H2O                                                 2.100       g
+ ZnSO4x7H2O                                                    0.144       g
+ MnCl2 x 4 H2O                                                 0.100       g
+ H3BO3                                                         0.030       g
+ CoCl2 x 6 H2O                                                 0.190       g
+ CuCl2 x 2 H2O                                                 0.002       g
+ NiCl2 x 6 H2O                                                 0.024       g
+ Na2MoO4 x 2 H2O                                               0.036       g
+ Distilled Water                                              1000.0      ml
+
+Selenite-tungstate solution:
+NaOH                                                             0.4       g
+ Na2SeO3 x 5 H2O                                                 6.0      mg
+ Na2WO4 x 2 H2O                                                  8.0      mg
+ Distilled water                                              1000.0      ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+1M Acetate solution:
+Sodium acetate 3-hydrate                                          13.6       g
+Distilled water                                                 1000.0      ml
+Adjust pH 7.0-7.2 and autoclave at 121C for 15 min.
+
+
+
+Bicarbonate solution:
+NaHCO3                                                             8.4       g
+Distilled water                                                  100.0      ml
+
+Saturated with CO2 gas and tightly sealed in bottles filled with CO2 gas.
+Autoclave at 121C for 15 min
+
+Vitamin solution:
+ Biotin                                                           2.00      mg
+ Folic acid                                                       2.00      mg
+ Pyridoxine-HCl                                                  10.00      mg
+ Thiamine-HCl x 2 H2O                                             5.00      mg
+ Riboflavin                                                       5.00      mg
+ Nicotinic acid                                                   5.00      mg
+ D-Ca-pantothenate                                                5.00      mg
+ Vitamin B12                                                      0.10      mg
+ 4-Aminobenzoic acid                                              5.00      mg
+ Lipoic acid                                                      5.00      mg
+ Distilled water                                               1000.00      ml
+
+Filter-sterilized the vitamin solution
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+© 2007 DSMZ GmbH - All rights reserved
+

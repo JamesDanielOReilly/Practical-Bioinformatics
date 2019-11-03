@@ -1,0 +1,21 @@
+1606. RUBROBACTER CARBOXYDOVORANS MEDIUM
+
+
+Na2HPO4 x 2 H2O                                                  4.50       g
+KH2PO4                                                           1.50       g
+MnSO4 x H2O                                                      0.01       g
+MgSO4 x 7 H2O                                                    0.20       g
+CaCl2 x 2 H2O                                                    0.01       g
+Ferric ammonium citrate                                          5.00      mg
+Trace element solution SL-6 (see medium 27)                      3.00      ml
+Yeast extract                                                    1.00       g
+Tryptone                                                         1.00       g
+Distilled water                                               1000.00      ml
+
+Adjust pH to 8.0. Agar if necessary 15.0 g/l. Incubate without agitation at 50C.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

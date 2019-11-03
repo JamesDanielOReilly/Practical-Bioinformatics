@@ -1,0 +1,39 @@
+1573. T 5 MEDIUM
+
+
+Peptone                                                             1.0          g
+Tryptone                                                            0.5          g
+D(+)-Glucose                                                        1.0          g
+Yeast extrakt                                                       2.0          g
+CaCO3                                                               1.0          g
+Trace elements solution(see below)                                  1.0         ml
+Distilled water                                                  1000.0         ml
+
+Adjust pH to 7.0.
+
+
+Trace element solution:
+ Nitrilotriacetic acid                                               1.50        g
+ MgSO4 x 7 H2O                                                       3.00        g
+ MnSO4 x H2O                                                         0.50        g
+ NaCl                                                                1.00        g
+ FeSO4 x 7 H2O                                                       0.10        g
+ CoSO4 x 7 H2O                                                       0.18        g
+ CaCl2 x 2 H2O                                                       0.10        g
+ ZnSO4 x 7 H2O                                                       0.18        g
+ CuSO4 x 5 H2O                                                       0.01        g
+ KAl(SO4)2 x 12 H2O                                                  0.02        g
+ H3BO3                                                               0.01        g
+ Na2MoO4 x 2 H2O                                                     0.01        g
+ NiCl2 x 6 H2O                                                       0.03        g
+ Na2SeO3 x 5 H2O                                                     0.30      mg
+ Na2WO4 x 2 H2O                                                      0.40      mg
+ Distilled water                                                 1000.00        ml
+First dissolve nitrilotriacetic acid and adjust pH to 6.5 with KOH, then add   minerals. Final
+pH 7.0 (with KOH).
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

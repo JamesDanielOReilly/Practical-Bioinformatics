@@ -1,0 +1,18 @@
+1535. MEDIUM D (20.6%NACL)
+
+
+NaCL                                      206.0    g
+KCL                                        0.37    g
+MgSO4x7H2O                                 36.0    g
+CaCl2x2H2O                                  0.5    g
+MnCl2                                     0.013    g
+Yeast extract                               5.0    g
+Agar                                       20.0    g
+Distilled water                          1000.0   ml
+pH 7.4
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,16 @@
+1480. MODIFIED TRYPTONE SOYA BROTH
+
+
+Trypticase Soy Broth                        30.0    g
+NaCl                                        40.0    g
+NaCO3                                        2.5    g
+Agar                                        15.0    g
+Distilled water                           1000.0   ml
+
+The pH should be 10.5 after autoclaving
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

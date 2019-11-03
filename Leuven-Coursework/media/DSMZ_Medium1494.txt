@@ -1,0 +1,250 @@
+Microorganisms
+
+
+
+1494 . OMIZ-PAT Medium (modified)
+
+This recipe describes the preparation of 200 ml medium, which can be used for about 4
+weeks when kept at 4°C.
+
+
+
+Prepare Solutions A – E, flush each with nitrogen to make them anoxic, filter-sterilize
+and store at -20°C
+
+Solution A:
+ L-Alanine                                                         90         mg
+ L-Arginine                                                        350        mg
+ L-Asparagine                                                      300        mg
+ L-Aspartic acid                                                   236        mg
+ L-Cystein Hcl                                                     700        mg
+ L-Glutamine                                                       1360       mg
+ L-Glutamic acid                                                   600        mg
+ Glycine                                                           150        mg
+ L-Histidine                                                       1240       mg
+ L-Isoleucine                                                      262        mg
+ L-Leucine                                                         262        mg
+ L-Lysine HCl                                                      364        mg
+ L-Methionine                                                      300        mg
+ L-Ornithine HCl                                                   340        mg
+ L-Phenylalanine                                                   330        mg
+ L-Proline                                                         230        mg
+ L-Serine                                                          1050       mg
+ L-Threonine                                                       240        mg
+ L-Tryptophan                                                      204        mg
+ L-Tyrosine                                                        180        mg
+ L-Valine                                                          234        mg
+ Distilled Water                                                   100        ml
+
+
+
+Solution B:
+ KCl                                                               1936       mg
+ MgSO4 x 7H2O                                                      500        mg
+ NaH2PO4 x H2O                                                     280        mg
+ NH4Cl                                                             3200       mg
+ Citric acid, trisodium salt                                       400        mg
+ Distilled water                                                   100        ml
+
+
+
+                                                                                          1
+Microorganisms
+
+
+
+Solution C:
+ Calcium D-(+)-panthothenate                        10     mg
+ Choline chloride                                   100    mg
+ Myo-Inositol                                       100    mg
+ Thiamine dichloride                                10     mg
+ Thiamin pyrophosphate                              10     mg
+ Coenzym A, sodium salt                             2      mg
+ Flavin adenine dinucleotide (FAD)                  2      mg
+ ß-nicotinamide adenine dinucleotide (NAD)          2      mg
+ 2-mercaptoethanesulfonic acid, sodium salt (MES)   20     mg
+ N-acetylmuramic acid                               50     mg
+ N-acetylglucosamin                                 400    mg
+ D-glucuronic acid, sodium salt                     1600   mg
+ D-galacturonic acid                                1600   mg
+ Pyruvic acid, sodium salt                          1100   mg
+ Fumaric acid, disodium salt                        1000   mg
+ Formic acid, sodium salt                           600    mg
+ Distilled water                                    100    ml
+
+
+
+Solution D:
+ Pyridoxal - HCl                                    10     mg
+ Pyridoxal - Phosphat                               10     mg
+ D,L-lactic acid, sodium salt                       1120   mg
+ Hypoxanthine                                       2.8    mg
+ Uracil                                             2.2    mg
+ Thymidine                                          4.8    mg
+ N-(2-acetamido)-2-aminoethanesulfonic acid         3.6    mg
+ D,L-carnithine                                     400    mg
+ Putrescine 2 HCl                                   10     mg
+ Phenol red, sodium salt                            20     mg
+ Distilled water                                    100    ml
+
+
+
+Solution E:
+ D-Glucose                                          4      g
+ D-Fructose                                         1.6    g
+ D-Maltose                                          1.6    g
+ D-Mannitol                                         1.6    g
+ D-Mannose                                          4      g
+ D-Arabinose                                        4      g
+ L-Fucose                                           4      g
+ D-Trehalose                                        4      g
+                                                                2
+Microorganisms
+
+
+
+D-Sucrose                                                            4           g
+L-Rhamnose                                                           4           g
+Distilled water                                                      100         ml
+
+
+
+Prepare Solution F, flush with nitrogen to make it anoxic, filter-sterilize and store at
+4°C
+
+Solution F:
+ CaCl2 x H2O                                                         300         mg
+ Distilled water                                                     100         ml
+
+
+
+Prepare Solutions G and H, flush each with nitrogen to make them anoxic, filter-
+sterilize and store at -20°C
+
+Solution G:
+ Asialofetuin (1 mg/ml) in distilled water
+
+
+
+Solution H:
+ Vitamine B12                                                        5           mg
+ D-(+)-biotin                                                        5           mg
+ Folic acid                                                          5           mg
+ Folinic acid, calcium salt                                          10          mg
+ Nicotinamide                                                        5           mg
+ Nicotinic acid                                                      10          mg
+ Riboflavine                                                         1           mg
+ Distilled water                                                     100         ml
+
+
+
+Prepare Solution I and store at -20°C
+
+Solution I:
+ Isobutyric acid                                                     10          µl
+ 2-methylbutyric acid                                                10          µl
+ Valeric acid                                                        10          µl
+ Isovaleric acid                                                     10          µl
+
+
+
+Solution J:
+ D,L--lipoic acid (1 mg/ml); in 2-mercaptoethanol-ethanol (1:10); store at -20°C
+
+
+                                                                                           3
+Microorganisms
+
+
+
+Solution K:
+ Hemin (0.2 mM) in NaOH (10 mM)
+
+
+
+Solution L:
+Homogenize 42 g fresh baker yeast in 140 ml distilled water, incubate for 24h at 56°C
+and centrifuge to harvest the supernatant. Adjust pH to 7 with NaOH, make anoxic,
+filter-sterilize and store at -80°C
+
+
+
+Prepare Trace elements I – III, flush each with nitrogen to make them anoxic, filter-
+sterilize and store at 4°C
+
+Trace elements I
+CuSO4                                                                7.89    mg
+MnSO4 x H2O                                                          169     mg
+ZnSO4 x 7H2O                                                         2.87    g
+10 mM HCl                                                            100     ml
+
+
+
+Trace elements II
+Na2SeO3                                                              173     mg
+10mM HCl                                                             100     ml
+
+
+
+Trace elements III
+NiSO4 x 6H2O                                                         13.1    mg
+SnCl2 x 2H2O                                                         11.8    mg
+NaVO3                                                                61      mg
+(NH4)6Mo7O24 x H2O                                                   1240    mg
+10 mM HCl                                                            100     ml
+
+
+
+
+Prepare Supplements 1 - 3, flush each with nitrogen to make them anoxic, filter-
+sterilize and store at -20°C
+
+Supplement 1:
+FeSO4 x 7H2O (10 mM) in HCl (10 mM)
+
+Supplement 2:
+Ascorbic acid (10%; w/v); in distilled water, neutralize with NaOH
+
+
+                                                                                        4
+Microorganisms
+
+
+
+Supplement 3:
+Glutathion (0.5 M); in distilled water, neutralize with NaOH
+
+Supplement 4:
+Cholesterol (1 mg/ml); in Ethanol (100%); store at -20°C
+
+Supplement 5:
+NaHCO3 (10%; w/v) in distilled water, store at 4°C
+
+
+
+
+Preparation of medium
+
+Distilled water                                                   100        ml
+Solution A-G                                                      10         ml of each
+Solution H                                                        200        µl
+Solution I                                                        8          µl
+Solution J                                                        2          µl
+Solution K                                                        40         µl
+Solution L                                                        2          ml
+Trace elements I and II     pre-dilute 1:1000; use                2          ml of each
+Trace elements III          pre-dilute 1:1000; use                200        µl
+
+Add distilled water to 200 ml
+
+Supplements 2, 3, 5                                               2          ml of each
+Supplements 1, 4                                                  200        µl of each
+
+Add 10 ml rabbit serum, flush the medium with N2CO2, adjust the pH to 6.9 and filter-
+sterilize the completed medium into tubes.
+
+
+
+
+                                                                                        5
+

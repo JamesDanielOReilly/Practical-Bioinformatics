@@ -1,0 +1,45 @@
+1495. AQUASPIRILLUM MEDIUM II
+
+
+ Peptone (BD)                                                     2.00        g
+ Succinic acid                                                    1.00        g
+ (NH4)2SO4                                                        1.00        g
+ MgSO4 x 7 H20                                                    1.00        g
+ CaCl2 x 2 H2O                                                    0.03        g
+ Vitamin solution (see below)                                     1.00       ml
+ Trace elements (see below)                                       1.00       ml
+ Distilled water                                                1000.0       ml
+
+Adjust pH to 7.4-7.6
+Autoclave and add 1.0 ml/l vitamin solution from a filter sterilised stock solution (see
+below). The medium may be solidified by adding 15.0 g/l agar.
+
+Trace elements solution (Pfennig & Lippert, 1966)
+ EDTA                                                             5.00        g
+ FeSO4 x 6 H2O                                                    2.20        g
+ ZnSO4 x 7H2O                                                     0.10        g
+ MnCl2 x 4 H2O                                                    0.03        g
+ H3BO                                                             0.03        g
+ CoCl2 x 6 H2O                                                    0.20        g
+ CuCl2 x 2 H2O                                                    0.03        g
+ NiCl2 x 6H2O                                                     0.03        g
+ Na2MoO4 x 2 H2O                                                  0.03        g
+ Distilled water                                               1000.00       ml
+pH 3.0-4.0
+
+
+Vitamin solution
+ Biotin                                                          200.0       mg
+ Folic acid                                                       20.0       mg
+ Pyridoxine-HCl                                                  100.0       mg
+ Thiamine-HCl                                                     50.0       mg
+ Riboflavin                                                      100.0       mg
+ Nicotinic acid                                                   50.0       mg
+ DL-Pantothenic acid                                              50.0       mg
+ Vitamin B12                                                       1.0       mg
+ ρ-Aminobenzoic acid                                              50.0       mg
+ Distilled water                                               1000.00       ml
+
+Filter sterilise.
+© 2007 DSMZ GmbH - All rights reserved
+

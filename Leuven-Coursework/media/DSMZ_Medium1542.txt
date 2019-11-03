@@ -1,0 +1,32 @@
+1542. CY/H LIQUID MEDIUM FOR MYXOBACTERIA
+
+Solution A:
+ Casiton                                                            1.5       g
+ Yeast extract                                                      1.5       g
+ Starch                                                             4.0       g
+ Soy flour, defatted                                                1.0       g
+ D-Glucose                                                          1.0       g
+ CaCl 2 X 2 H2O                                                     1.0       g
+ MgSO 4 x 7 H2O                                                     0.5       g
+ HEPES                                                             11.9       g
+ Distilled water                                                 1000.0      ml
+
+Solution B:
+ EDTA-iron                                                         0.80       g
+ Distilled water                                                  100.0      ml
+
+Solution C:
+ Vitamin B12                                                       0.05       g
+ Distilled water                                                  100.0      ml
+
+
+
+Adjust pH of solution A to pH 7.4. Autoclave solutions A and B separately. Filter sterilize
+vitamin solution. After cooling, add 1 ml solution B and 1 ml solution C per liter solution
+A.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

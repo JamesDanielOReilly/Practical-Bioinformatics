@@ -1,0 +1,18 @@
+1626. YEAST EXTRACT MANITOL MEDIUM (YEM)
+
+
+Yeast extract                               0.5    g
+Mannitol                                    5.0    g
+K2HPO4                                      0.5    g
+MgSO4 x 7H2O                                0.2    g
+NaCl                                        0.1    g
+ Agar                                      20.0    g
+ Distilled water                         1000.0   ml
+
+Adjust pH to 7.0.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

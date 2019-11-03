@@ -1,0 +1,35 @@
+1487. MAGNETOVIBRIO MEDIUM
+
+
+ NaCl                                                               16.50    g
+ MgCl2 x 6 H2O                                                       3.50    g
+ Na2SO4                                                              2.75    g
+ KCl                                                                 0.50    g
+ NaNO3                                                               0.50    g
+ CaCl2 x 2 H2O                                                       0.40    g
+ NH4Cl                                                               0.25    g
+ Trace elements solution (see medium 318)                           10.00   ml
+ Na-acetate                                                          0.25    g
+ Na2-succinate                                                       0.50    g
+ Casamino acids (BD Bacto)                                           0.50    g
+ Na-resazurin solution (0.1% w/v)                                    0.50   ml
+ K2HPO4                                                              0.15    g
+ NaHCO3                                                              2.50    g
+ Vitamin solution (see medium 141)                                  10.00   ml
+ L-Cysteine-HCl x H2O                                                0.25    g
+ Distilled water                                                  1000.00   ml
+
+Dissolve ingredients (except hydrogenphosphate, bicarbonate, vitamins and cysteine),
+then sparge medium with 80% N2 and 20% CO2 gas mixture for 30 – 45 min to make it
+anoxic. Dispense medium under same gas atmosphere into anoxic Hungate-type tubes
+or serum vials and autoclave. Add hydrogenphosphate, vitamins and cysteine from
+sterile anoxic stock solutions prepared under 100% N2 gas and bicarbonate from a sterile
+anoxic stock solution prepared under 80% N2 and 20% CO2 gas mixture. The vitamin
+solution should be sterilized by filtration. Adjust pH of the complete medium to 7.0 - 7.2,
+if necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

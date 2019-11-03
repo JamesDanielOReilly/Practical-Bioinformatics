@@ -1,0 +1,42 @@
+1565. ALKALIPHILUS TRANSVAALENSIS MEDIUM
+
+
+ Synthetic seawater (see below)                                  100.00   ml
+ Yeast extract (BD Bacto)                                          2.00    g
+ Tryptone (BD Bacto)                                               2.00    g
+ Na-tartrate                                                       1.00    g
+ Na3-citrate                                                       1.00    g
+ NaNO3                                                             0.25    g
+ (NH4)2SO4                                                         0.25    g
+ Fe(III)-citrate                                                   0.20    g
+ Na2SO4                                                            1.00    g
+ Na2CO3                                                           40.00    g
+ Na2S2O3 x 5 H2O                                                   2.00    g
+ Distilled water                                                 900.00   ml
+
+Dissolve ingredients except carbonate and thiosulfate, then sparge medium with 100% N2
+gas for 30 – 45 min to make it anoxic. Add and dissolve carbonate, adjust pH to 11 – 12
+with KOH, then dispense medium under 100% N2 gas atmosphere into anoxic Hungate-
+type tubes or serum vials and autoclave. Add thiosulfate to the autoclaved medium from
+an anoxic stock solution prepared under 100% N2 gas and sterilized by filtration. After
+inoculation pressurize vessels to 1 bar overpressure with sterile 80% N2 and 20% CO2 gas
+mixture.
+
+Synthetic seawater:
+ NaCl                                                            30.00  g
+ K2HPO4                                                           0.14  g
+ CaCl2 x 2 H2O                                                    0.14  g
+ MgSO4 x 7 H2O                                                    3.40  g
+ MgCl2 x 6 H2O                                                    4.18  g
+ KCl                                                              0.33  g
+ NiCl2 x 6 H2O                                                    0.50 mg
+ Na2SeO3 x 5 H2O                                                  0.50 mg
+ Fe(NH4)2(SO4)2 x 6 H2O                                           0.01  g
+ Trace element solution (see medium 141)                         10.00 ml
+ Distilled water                                               1000.00 ml
+
+
+
+
+© 2014 DSMZ GmbH - All rights reserved
+

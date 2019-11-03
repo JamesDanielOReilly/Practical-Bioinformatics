@@ -1,0 +1,31 @@
+1477. CALORAMATOR QUIMBAYENSIS MEDIUM
+
+
+K2HPO4                                                              0.30     g
+KH2PO4                                                              0.30     g
+NH4Cl                                                               1.00     g
+MgCl2 x 6 H2O                                                       1.50     g
+CaCl2 x 2 H2O                                                       0.10     g
+NaCl                                                               20.00     g
+KCl                                                                 0.10     g
+Trace element solution (see medium 318)                             1.00    ml
+Yeast extract                                                       1.00     g
+Na-resazurin solution (0.1% w/v)                                    0.50    ml
+NaHCO3                                                              0.50     g
+D-Glucose                                                           3.60     g
+Vitamin solution (see medium 141)                                  10.00    ml
+Distilled water                                                  1000.00    ml
+
+Dissolve ingredients except bicarbonate, glucose and vitamins, then sparge medium with
+100% N2 gas for 30 – 45 min to make it anoxic. Dispense medium under the same gas
+atmosphere into anoxic Hungate-type tubes or serum vials and autoclave. Add glucose
+and vitamins (sterilized by filtration) from sterile anoxic stock solutions prepared under
+100% N2 gas and bicarbonate from a sterile anoxic stock solution prepared under 80%
+N2 and 20% CO2 gas mixture. Prior to use adjust pH of complete medium to 7.0 - 7.2, if
+necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

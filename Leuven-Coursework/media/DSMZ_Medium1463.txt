@@ -1,0 +1,24 @@
+1463. YE/10 + Ca MEDIUM
+
+
+Yeast extract (Difco)                                           0.30        g
+Peptone                                                         0.06        g
+TRIS x HCl                                                      0.61        g
+CaCl2 x 2 H2O                                                   0.30        g
+Distilled water                                              1000.00       ml
+
+Adjust final pH to 7.5.
+Add all the components together, except calcium chloride which is added from a
+sterilized stock solution when the autoclaved medium has cooled.
+
+Propagation of DSM 25223 in liquid cultures:
+Add 3 ml of a Caulobacter vibrioides DSM 25117 culture (grown for 24 h in DSMZ
+medium 1462) to 20 ml of medium and ioculate with 1 ml of a liquid culture of DSM
+25223 or transfer some material with an inoculation loop from the lysis zone of a double
+layer agar plate. Incubate with shaking (ca. 150 rpm) for approximately 48 h.
+
+
+
+
+© 2013 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,16 @@
+1549. HALOCOCCUS MEDIUM (NTYE)
+
+NaCl                                      250.0    g
+MgSO4 x 7H2O                               20.0    g
+KCl                                         5.0    g
+Tryptone (BD 211921)                        5.0    g
+Yeast extract                               3.0    g
+Distilled water                          1000.0   ml
+
+pH 7.2
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

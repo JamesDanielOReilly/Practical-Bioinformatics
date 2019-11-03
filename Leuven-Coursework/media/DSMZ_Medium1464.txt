@@ -1,0 +1,64 @@
+1464. CHITINIVIBRIO MEDIUM
+
+Mineral Base:
+ NaHCO3                                                          15.0    g/l
+ Na2CO3                                                          95.0    g/l
+ NaCl                                                             6.0    g/l
+ K2HPO4                                                           1.0    g/l
+
+Adjust pH to 10.0 with NaOH or HCl. Make anoxic under nitrogen stream and autoclave
+at 121°C.
+
+After autoclaving add sterile, anoxic solutions of:
+
+ Chitin (amorphous)                                     1 – 2g/l (from 5% solution)
+ MgSO4                                                  1 mM (final concentration)
+ Yeast extract                                          20        mg/l
+ NH4Cl                                                  4 mM (final concentration)
+ Na2S                                                   1 mM (final concentration)
+ Acidic trace metals (Pfennig & Lippert, 1965)          1         ml/l
+ Vitamine mixture (Pfennig & Lippert, 1965)             1         ml/l
+
+
+
+Acidic trace metals (Pfennig & Lippert, 1965)
+1. EDTA                                                         5000     mg/l
+2. FeSO4 x 7H2O                                                 2000     mg/l
+3. ZnSO4 x 7H2O                                                  100     mg/l
+4. MnCl2                                                          30     mg/l
+5. H3BO3                                                         300     mg/l
+6. CoCl2 x 6H2O                                                  200     mg/l
+7. CuCl2                                                          10     mg/l
+8. NiCl2 x 2H2O                                                   20     mg/l
+9. Na2MoO4 x 2H2O or NH4MoO4                                      20     mg/l
+
+adjust pH to 3-4 with HCl; autoclave in closed bottles, 120°C, 20 min.
+
+
+
+Vitamine mixture (Pfennig & Lippert, 1965)
+1: acidic solution (HCl, pH 3; 100 ml)
+Thiamin                                                             5 mg
+Ca pantotenate                                                      5 mg
+B12                                                               0.5 mg
+
+
+© 2011 DSMZ GmbH - All rights reserved
+2: basic solution (100 ml 0.1 N NaOH)
+Biotin                                                              2   mg
+PABA                                                                5   mg
+Nicotinic acid                                                      5   mg
+Pyridoxine                                                         10   mg
+
+3: Neutral solution (100 ml Aqua dem.)
+Folic acid                                                           2 mg
+Riboflavin                                                           5 mg
+
+Sterilize by filtration and keep at 4°C. Before addition to the medium mix 1:1:1
+(vol:vol:vol).
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

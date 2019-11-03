@@ -1,0 +1,20 @@
+1559. TRYPTONE-STARCH MEDIUM
+
+
+Bacto-Tryptone                                                   3.00       g
+Soluble starch                                                   2.00       g
+HEPES                                                            2.38       g
+CaCl2 x 2 H2O                                                    0.25       g
+MgSO4 x 7 H2O                                                    0.50       g
+Vitamin B12                                                      0.50      mg
+Agar (Difco) if appropriate                                     15.00       g
+Distilled water                                               1000.00      ml
+
+Sterilize vitamin B12 separately by filtration. Adjust pH of medium to 7.0 with KOH prior
+to autoclaving.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

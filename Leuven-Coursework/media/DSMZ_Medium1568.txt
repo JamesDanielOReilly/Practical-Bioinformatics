@@ -1,0 +1,31 @@
+1568. MEDIUM FOR METHYLOCALDUM (RS11D-PR)
+
+
+NaNO3                                                            1.00       g
+MgSO4 x 7 H2O                                                    0.10       g
+Na2HPO4                                                          0.50       g
+KH2PO4                                                           0.22       g
+CaCl2 x 2 H2O                                                    0.03       g
+FeSO4 x 7 H2O                                                    2.00      mg
+Trace elements (see below)                                       1.00      ml
+Distilled water                                               1000.00      ml
+
+Medium was adjusted pH 7.0 with NaOH
+
+Trace elements:
+ZnSO4 x 7 H2O                                                    0.44       g
+CuSO4 x 5 H2O                                                    0.20       g
+MnSO4 x 2 H2O                                                    0.17       g
+Na2MoO4                                                          0.06       g
+H3BO3                                                            0.10       g
+CoCl2 x 6 H2O                                                    0.08       g
+Distilled water                                               1000.00      ml
+
+Dispense the medium into the growth vessels. If using sealed vessels it is appropriate to
+add 20% methane to the gas phase and autoclave at 121C for 15 minutes.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

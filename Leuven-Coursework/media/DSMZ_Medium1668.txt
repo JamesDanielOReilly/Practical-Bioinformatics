@@ -1,0 +1,93 @@
+1668. MDM (modified dehority medium)
+
+
+Yeast Extract                                                   0.50       g
+Tryptone                                                        0.50       g
+Stock A                                                          250      ml
+Stock B                                                          2.5      ml
+Distilled water                                                  250      ml
+
+To make medium anoxic boil it, cool under N2CO2 gas atmosphere, add 1 g/l L-cysteine
+hydrochloride and adjust pH to 6.8. Finally gas over with N2 . Dispense under N2CO2 into
+suitable vessels for anaerobic growth (serum bottles or Hungate tubes sealed with rubber
+stoppers) and sterilize by autoclaving.
+
+For DSM 104696, DSM 104698, DSM 104699
+
+For 10 ml in hungate tube, add:
+Vitamin solution                                                   5-10   µl
+Rumen fluid                                                      500      µl
+Cellobiose (10%)                                                 200      µl
+
+For DSM 104697
+
+For 10 ml in hungate tube, add:
+Vitamin solution                                                   5-10   µl
+Rumen fluid                                                      500      µl
+Cellobiose (10%)                                                 200      µl
+CM-Mix                                                           500      µl
+Vitamin K1 solution                                                5-10   µl
+
+
+
+
+Stock A: Salt solution 2x   (50 ml stock per 100 ml medium)
+K2HPO4                                                         6804       mg
+NaHCO3                                                         6721       mg
+NaCl                                                           4675       mg
+NH4Cl                                                          1605       mg
+CaCl2                                                            89       mg
+MgCl2                                                            95       mg
+FeSO4 x 7 H2O                                                    28       mg
+Distilled water                                                1000       ml
+
+
+© 2017 DSMZ GmbH - All rights reserved
+Stock B: Salt solution 200x    (0,5 ml stock per 100 ml medium)
+MgCl2 x 2 H2O                                                      971       mg
+ZnCl2                                                              273       mg
+CoCl2                                                              104       mg
+Na2 MoO4 x 2 H2O                                                    48       mg
+Na2SeO3                                                             35       mg
+NiCl2 x 6 H2O                                                      237       mg
+Na2WO4 x 2 H2O                                                      66       mg
+Distilled water                                                1000.00       ml
+
+
+Vitamin solution:
+Biotin                                                            2.00       mg
+Folic acid                                                        2.00       mg
+Pyridoxine-HCl                                                   10.00       mg
+Thiamine-HCl x 2 H2O                                              5.00       mg
+Riboflavin                                                        5.00       mg
+Nicotinic acid                                                    5.00       mg
+D-Ca-pantothenate                                                 5.00       mg
+Vitamin B12                                                       0.10       mg
+p-Aminobenzoic acid                                               5.00       mg
+Lipoic acid                                                       5.00       mg
+Distilled water                                                1000.00       ml
+
+Filter sterilize and make anoxic with N2.
+
+Cellobiose (10%)
+Mix 10 g cellobiose with 100 ml distilled water and filter sterilize, make anoxic with N2.
+
+
+
+CM-Mix (only for DSM 104697)
+D-Glucose                                                          4.0         g
+Cellobiose                                                         1.0         g
+Maltose                                                            1.0         g
+Starch (soluble)                                                   1.0         g
+Distilled water                                                1000.00        ml
+Make anoxic with N2.
+
+Vitamin K1 solution (only for DSM 104697)
+Dissolve 0.1 ml of vitamin K1 in 20 ml 95% ethanol and filter sterilize. Make anoxic with
+N2. Store refrigerated in a brown bottle.
+
+
+
+
+© 2017 DSMZ GmbH - All rights reserved
+

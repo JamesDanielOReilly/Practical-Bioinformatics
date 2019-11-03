@@ -1,0 +1,50 @@
+1649. ASW-HD (1:10 diluted)
+
+ Casein peptone                                                    0.50        g
+ Glucose                                                           0.10        g
+ Yeast extract                                                     0.25        g
+ If required, Agar-agar                                           15.00        g
+ Seawater (Biomaris)                                            1000.00       ml
+
+Adjust to pH 7.0
+
+Add to 1000 ml of medium after autoclaving:
+ Trace Element Solution SL-10 (see below)                            1.0      ml
+ Vitamin Solution (see below)                                        1.0      ml
+
+
+
+
+Trace element solution SL-10:
+ HCl (25%; 7.7 M)                                                 10.00      ml
+ FeCl2 x 4 H2O                                                     1.50       g
+ ZnCl2                                                            70.00      mg
+ MnCl2 x 4 H2O                                                   100.00      mg
+ H3BO3                                                             6.00      mg
+ CoCl2 x 6 H2O                                                   190.00      mg
+ CuCl2 x 2 H2O                                                     2.00      mg
+ NiCl2 x 6 H2O                                                    24.00      mg
+ Na2MoO4 x 2 H2O                                                  36.00      mg
+ Distilled water                                                 990.00      ml
+
+First dissolve FeCl2 in HCl, then dilute with water, add and dissolve the other salts.
+Finally make up to 1000.0 ml.
+
+
+Vitamim-10 solution:
+Biotin                                                             2.00      mg
+Folic acid                                                         2.00      mg
+Pyridoxine-HCl                                                    10.00      mg
+Thiamine-HCl x 2 H2O                                               5.00      mg
+Riboflavin                                                         5.00      mg
+Nicotinic acid                                                     5.00      mg
+D-Ca-pantothenate                                                  5.00      mg
+Vitamin B12                                                        0.10      mg
+p-Aminobenzoic acid                                                5.00      mg
+Lipoic acid                                                        5.00      mg
+Distilled water                                                 1000.00      ml
+
+
+
+© 2017 DSMZ GmbH - All rights reserved
+

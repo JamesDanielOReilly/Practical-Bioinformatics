@@ -1,0 +1,23 @@
+1504. CM MEDIUM
+
+
+ Peptone                                                       7.5       g
+ Yeast extract                                                10.0       g
+ MgSO4 x 7 H2O                                                10.0       g
+ Na3Citrat                                                     3.0       g
+ KCl                                                           2.0       g
+ NaCl                                                        150.0       g
+ Fe*                                                           1.0      ml
+ Agar                                                         20.0       g
+ Distilled water                                            1000.0      ml
+pH 7.4 (NaOH)
+
+*
+ Prepare 4.98% FeSO4 x 7 H2O (= 10 g Fe in 1l 0.001 M HCl); add 1 ml per liter
+medium.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,57 @@
+Microorganisms
+
+
+
+
+1598. VERRUCOMICROBIUM CANDIDATUS MEDIUM (KAM1)
+
+
+10x NMS salts
+ NH4Cl                                                           10.00        g
+ MgSO4 x 7 H2O                                                   10.00        g
+ CaCl2 x 2 H2O                                                    2.00        g
+ Distilled water                                               1000.00       ml
+
+Dissolve the ingredients listed above (in that order) in about 700 ml of distilled water,
+and then make up to 1 litre
+
+FeNaEDTA                                                          4.50        g
+ Distilled water                                               1000.00       ml
+
+Trace Element Solution: (see media 1376)
+ Na2 EDTA                                                         0.25        g
+ ZnSO4 x 7 H2O                                                    0.40        g
+ MnCl2 x 4 H2O                                                    0.02        g
+ H3BO3                                                            0.02        g
+ Na2MoO4 x 2 H2O                                                  0.04        g
+ NiCl2 x 2 H2O                                                    0.01        g
+ CuSO4 x 5 H2O                                                    0.20        g
+ CoCl2 x 6 H2O                                                    0.05        g
+ Distilled water                                               1000.00       ml
+May be stored at 4C in the dark
+
+Phosphate buffer:
+ KH2PO4                                                         37.325        g
+ Na2HPO4 x 12 H2O                                               48.950        g
+Distilled water                                                1000.00       ml
+
+Cerium(III)chloride: (0.03M)
+CeCl3 x 7 H2O                                                     11.2        g
+Distilled water                                                1000.00       ml
+
+Prepare the growth medium as follows:
+1. Dilute 100 ml NMS salt solution to 1 litre with distilled water and then add 1 ml of
+  FeNaEDTA solution and 1 ml of the trace elements and autoclave. Also autoclave the
+  phosphate buffer stock solution.
+2. After cooling of the autoclaved solutions, add 20ml phosphate buffer stock solution to
+   the mineral solution.
+3. Dispense 9ml distilled water into the growth vessels. Use sealed vessels it is
+   appropriate to add 10% methane and 1% CO2 gas to the gas phase and autoclave.
+4. When the growth vessels is cool, 1.0 ml of the mineral medium and 0.1 ml
+   0.03 M Cerium-(III)-chlorid are added.
+5. Adjust pH to 3.5 with 1M HCL to obtain the final mineral medium before inoculate.
+6. The cultures should be grown with shaking.
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

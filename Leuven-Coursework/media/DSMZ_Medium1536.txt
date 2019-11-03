@@ -1,0 +1,44 @@
+1536. BAP+ MEDIUM FOR FRANKIA
+
+
+KH2PO4                                                        0.950       g
+K2HPO4                                                        0.600       g
+NH4Cl                                                         0.270       g
+Na-propionate                                                 0.480       g
+MgSO4 x 7 H2O                                                 0.025       g
+CaCl2 x 2 H2O                                                 0.010       g
+Vitamine solution (see below)                                 1.000      ml
+Chelated iron solution (see below)                            1.000      ml
+Trace element solution (see below)                            0.100      ml
+Distilled water                                            1000.000      ml
+
+Vitamine solution:
+Thiamine HCl                                                  0.010       g
+Nicotinic acid                                                0.050       g
+Pyridoxine HCl                                                0.050       g
+Distilled water                                             100.000      ml
+
+Chelated iron solution:
+Citronensäure                                                 1.000        g
+Eisencitrat                                                   1.000        g
+Distilled water                                             100.000       ml
+
+Trace element solution:
+CoSO4 x 7 H2O                                                 0.001        g
+CuSO4 x 5 H2O                                                 0.080        g
+H3BO3                                                         2.860        g
+MnCl2 x 4 H2O                                                 1.810        g
+Na2MoO4 x 2 H2O                                               0.025        g
+ZnSO4 x 7 H2O                                                 0.220        g
+Distilled water                                             100.000       ml
+
+The pH of the final solution is adjusted to 6.3.
+
+Note: Please autoclave the chelated iron solution before you add to the medium, so that
+solves everything!!!!
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

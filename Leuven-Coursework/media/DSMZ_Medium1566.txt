@@ -1,0 +1,61 @@
+1566. HAHA100 mod V2– MEDIUM
+
+
+NaCl                                                     26.40     g
+MgSO4 x 7 H2O                                             6.80     g
+MgCl2 x 6H2O                                              5.70     g
+CaCl2 x 2 H2O                                             1.50     g
+KCl                                                       0.70     g
+KBr                                                       0.10     g
+NH4Cl                                                     0.80    mg
+KH2PO4                                                    0.02     g
+Casamino acids (Oxoid)                                    0.20     g
+Tryptone Peptone                                          0.20     g
+Trace elements SL-8 (see below, medium 1162)              1.00    ml
+Distilled water                                        1000.00    ml
+
+Autoclave at 121 °C for 20 min.
+
+Before inoculation add from sterile stock solutions:
+Glucose                                                   0.40    g/l
+Mannose                                                   0.40    g/l
+Vitamin solution (see below, medium 428)                 10.00   ml/l
+NaHCO3                                                    0.17    g/l
+
+Adjust pH to 7.5 with 1 M HCl or 1 M NaHCO3
+
+Trace elements SL 8:
+ EDTA-Na2                                                  5.2     g
+ FeCl2 x 4 H2O                                             1.5     g
+ ZnCl2                                                    70.0    mg
+ MnCl2 x 4 H2O                                           100.0    mg
+ H3BO3                                                    62.0    mg
+ CoCl2 x 6 H2O                                           190.0    mg
+ CuCl2 x 2 H2O                                            17.0    mg
+ NiCl2 x 6 H2O                                            24.0    mg
+ NaMoO4 x 2 H2O                                           36.0    mg
+ Distilled water                                        1000.0    ml
+
+
+
+
+                                                          continued on next page
+
+© 2007 DSMZ GmbH - All rights reserved
+Vitamin solution:
+ Riboflavin                               10.0   mg
+ Thiamine-HCl x 2 H2O                     50.0   mg
+ Nicotinic acid                           50.0   mg
+ Pyridoxine-HCl                           50.0   mg
+ Ca-pantothenate                          50.0   mg
+ Biotin                                    0.1   mg
+ Folic acid                                0.2   mg
+ Vitamin B12                               1.0   mg
+ Distilled water                         100.0   ml
+Filter sterilise
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,20 @@
+1540. BHA MEDIUM
+
+Bacto peptone                                                 5.00        g
+Bacto yeast extract                                           5.00        g
+Tris HCl                                                      6.00        g
+NaCl                                                         11.70        g
+MgSO4 x 7H2O                                                  7.84        g
+KCl                                                           0.74        g
+NH4Cl                                                         3.00        g
+CaCl2                                                         0.15        g
+Distilled water                                            1000.00       ml
+
+Final pH should be 7.8 ± 0.2 at 25C. The medium may be solidified by adding 15.0g/l
+agar.
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

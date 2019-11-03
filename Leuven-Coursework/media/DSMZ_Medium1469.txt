@@ -1,0 +1,64 @@
+1469. THERMOCHROMATIUM/ALLOCHROMATIUM MEDIUM
+
+
+Solution 1 Mineral Salts
+
+600 ml deionized water
+1 ml EDTA (1% stock solution)
+1 ml MgSO4 . 7H2O (20% stock solution)
+0.66 ml CaCl2 . 2H2O (7.5% stock solution)
+0.5 g KH2PO4 (monobasic)
+0.4 g NaCl
+0.4 g NH4Cl
+1.0 g Na acetate
+1 ml trace elements (see Medium 1147))
+1.05 g MOPS (5 mM)
+
+Autoclave at 121C for 15 min
+
+
+
+Solution 2 NaHCO3
+
+1.0 g NaHCO3
+300 ml deionized H2O
+
+Boil briefly and bubble with CO2 for 30 minutes and filter sterilize into a sterile, gas-tight
+screw-cap bottle.
+
+
+
+
+Solution 3 Na2S . 9H2O
+
+1.0 g Na2S . 9H2O
+100 ml degassed water
+
+Degas water by bringing to a boil for a minute or two. Meanwhile, wash sulfide before
+weighing – using plastic-forceps, dip a small chunk into dd H2O and dry sulfide and
+forceps with lint-free wipes. Drop weighed sulfide chunk into the degassed water.
+Autoclave at 121C for 15 min
+
+
+
+
+                                                                     Continued on next page
+
+© 2007 DSMZ GmbH - All rights reserved
+Put the Medium together:
+This step should not be done until all components are completely cooled to room
+temperature. All of the following should be done aseptically.
+Pour Solution 2 into the bottle with Solution 1. Slowly pour sulfide (solution 3) into the
+bottle with solution 1 and 2.
+Test pH, it should be about 7.0.
+ If it is very far off, adjust using sterile HCl/NaOH to ~7.0 before proceeding to next part.
+When pH step is finished, immediately fill into sterile tubes, completely filling such that
+no or only tiny bubbles result. Medium should sit assembled about 24 hours before using.
+Before using add 20 μl vitamin B12/l (2 μg/μL stock solution).
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+© 2007 DSMZ GmbH - All rights reserved
+

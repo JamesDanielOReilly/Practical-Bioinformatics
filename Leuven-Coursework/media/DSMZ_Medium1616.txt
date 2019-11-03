@@ -1,0 +1,33 @@
+1616. SEDIMENTIBACTER ACIDAMINIVORANS MEDIUM
+
+
+NaCl                                                               20.00     g
+NH4Cl                                                               0.54     g
+KH2PO4                                                              0.10     g
+MgCl2 x 7 H2O                                                       4.00     g
+CaCl2 x 2 H2O                                                       1.00     g
+Trace element solution SL-10 (see medium 320)                       1.00    ml
+Selenite-tungstate solution (see medium 385)                        1.00    ml
+Yeast extract                                                       1.00     g
+Na-resazurin solution (0.1% w/v)                                    0.50    ml
+NaHCO3                                                              2.50     g
+Na-pyruvate                                                         2.75     g
+Vitamin solution (see medium 141)                                  20.00    ml
+L-Cysteine-HCl x H2O                                                0.30     g
+Na2S x 9 H2O                                                        0.30     g
+Distilled water                                                   900.00    ml
+
+Dissolve ingredients except bicarbonate, pyruvate, vitamins, cysteine and sulfide, then
+sparge medium with 80% N2 and 20% CO2 gas mixture for 30 - 45 min to make it
+anoxic. Distribute medium under same gas atmosphere into anoxic Hungate-type tubes
+or serum vials and autoclave. After autoclaving add pyruvate, vitamins, cysteine and
+sulfide from sterile anoxic stock solutions prepared under 100% N2 gas atmosphere and
+bicarbonate from a sterile anoxic stock solution prepared under 80% N2 and 20% CO2
+gas mixture. The pyruvate and vitamin solutions should be sterilized by filtration. Check
+pH of complete medium and adjust to 7.2, if necessary.
+
+
+
+
+© 2016 DSMZ GmbH - All rights reserved
+

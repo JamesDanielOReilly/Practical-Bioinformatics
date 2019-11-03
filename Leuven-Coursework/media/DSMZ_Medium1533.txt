@@ -1,0 +1,37 @@
+1533. MARINIFILUM MEDIUM (IRD MEDIUM)
+
+ KH2PO4                                                        0.3           g
+ K2HPO4                                                        0.3           g
+ NH4Cl                                                         1.0           g
+ NaCl                                                         25.0           g
+ KCl                                                           0.1           g
+ CaCl2 x2H2O                                                   0.1           g
+ Cysteine HCl                                                  0.5           g
+ Yeast extract                                                 1.0           g
+ Trace mineral element solution (see medium 941)                 1          mL
+ Resazurin (0.1%)                                                1          mL
+ Distilled water                                           1000.00          ml
+
+pH 7.0
+
+Add after autoclave
+
+MgCl2 x 6 H2O (150.0 g/l)                                       20   ml/l
+NaHCO3 (10%)                                                    20   ml/l
+Na2S x 9 H2O (2%)                                               20   ml/l
+Glucose (1M)                                                    20   ml/l
+
+
+
+Prepare the medium without NaHCO3, Na2S x 9 H2O, MgCl2 x 6 H2O and glucose. Boil the
+medium in a water bath and cool under a stream of N2/CO2 (80/20). Add the NaHCO3 to
+the cooled medium (the pH should be 7.0) and dispense the medium into Hungate tubes
+or serum bottles under a stream of N2/CO2 (80/20). Seal the tubes under N2/CO2 (80/20)
+and autoclave. To the cooled medium at the appropriate amounts of Na2S x 9 H2O, MgCl2
+x 6 H2O and glucose from sterile, anaerobic stock solutions.
+
+
+
+
+© 2008 DSMZ GmbH - All rights reserved
+

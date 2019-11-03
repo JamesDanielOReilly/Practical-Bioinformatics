@@ -1,0 +1,25 @@
+1519. HALLOBELLUS RUBER MEDIUM
+
+Glucose                                                        0.90    g
+Yeast extract                                                  4.50    g
+Peptone protease                                               4.50    g
+NaHCO3                                                         0.12    g
+NaBr                                                           0.42    g
+CaCl2 x 2H2O                                                   0.66    g
+KCl                                                           32.43    g
+MgCl2 x 6H2O                                                  25.20    g
+MgSO4 x 6H2O                                                  35.60    g
+NaCl                                                         140.40    g
+FeCl3 x 6H2O (0.5%)                                            0.30   ml
+Agar                                                          20.00    g
+
+
+
+Add distilled water to give a final volume of 1000 ml.
+Adjust pH to 7.3 with NaOH. Autoclave at 121C for 15 min.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

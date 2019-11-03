@@ -1,0 +1,60 @@
+1656. HALANAEROBIUM HYDROGENIFORMANS MEDIUM (SL-HP)
+
+NaCl                                         70.00    g
+Na2CO3                                       40.00    g
+K2HPO4                                        6.30    g
+Yeast extract                                 1.00    g
+Na2S x 9 H2O                                  0.75    g
+L-Cysteine                                    0.60    g
+Basal medium stock solution (see below)      10.00   ml
+Trace mineral solution (see below)           10.00   ml
+
+Final pH 11.0
+
+Basal medium stock solution:
+
+NH4NO3                                        50.0   mg
+MgCl2 x 6 H2O                                  8.5   mg
+SiO2                                           7.5   mg
+MnSO4 x H2O                                    4.5   mg
+CaCl2 x 2 H2O                                  4.2   mg
+FeSO4 x 7 H2O                                  1.8   mg
+Resazurin                                      4.0   mg
+Distilled Water                           1000.000   ml
+
+Trace mineral solution:
+
+MgSO4 x 7 H2O                                3.000    g
+Na3-NTA                                       1.63    g
+NaCl                                          1.00    g
+MnCl2 x 4H2O                                  0.64    g
+ZnCl2                                         0.13    g
+FeSO4 x 7 H2O                                 0.10    g
+CaCl2 x 2 H2O                                 0.10    g
+NiSO4 x 6 H2O                                 0.03    g
+Na2MoO4 x 2 H2O                              0.025    g
+Na2WoO4 x 2 H2O                              0.025    g
+KAl(SO4)2 x 12 H2O                           0.010    g
+H3BO3                                        0.010    g
+CuCl2 x 2H2O                                 0.007    g
+Distilled Water                           1000.000   ml
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+Prepare the medium without cysteine hydrochloride, Na2S x 9 H2O and Na2CO3. Boil and
+then cool under a gas atmosphere of N2:CO2 (80:20 v/v) and add the Na2CO3. Autoclave
+the medium and add from sterile stock solutions cysteine hydrochloride and Na2S x 9
+H2O. The final pH should be 11.0.
+
+
+
+Na2S x 9 H2O (10% v/v)                                        0.05 ml/10 ml
+L-Cysteine (5% v/v)                                           0.12 ml/10 ml
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

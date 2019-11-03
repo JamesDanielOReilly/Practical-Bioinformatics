@@ -1,0 +1,24 @@
+1482. ARHODOMONAS MEDIUM RS91
+
+
+ NaCl                                     100.0    g
+ MgCl2 x 6 H2O                             10.0    g
+ KCl                                        1.5    g
+ CaCl2 x 2 H2O                              0.2    g
+ MgSO4 x 7 H2O                              2.0    g
+ (NH4)2HPO4                                 0.5    g
+ Na pyruvate                                0.4    g
+ Na acetate                                 0.8    g
+ Casein hydrolysate (Oxoid LP0041)          0.4    g
+ Yeast extract (BD212750)                   0.3    g
+ Tryptone (BD211921)                        0.6    g
+ Agar                                      20.0    g
+ Distilled water                         1000.0   ml
+
+Adjust to pH 6.5-7.5
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

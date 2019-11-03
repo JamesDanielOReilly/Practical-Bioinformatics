@@ -1,0 +1,22 @@
+1581. ALKALINE VOGESELLA MEDIUM
+
+
+Glucose                                    0.50    g
+Na-pyruvate                                3.00    g
+Casamino acids                             0.50    g
+Peptone                                    3.00    g
+Yeast extract                              3.00    g
+HEPES                                      2.83    g
+KCl                                        0.50    g
+CaCl2 x 2 H2O                              0.15    g
+NaCl                                       1.00    g
+MgCl2 x 6 H2O                              0.62    g
+Distilled water                          1000.0   ml
+
+Adjust pH to 8.0.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

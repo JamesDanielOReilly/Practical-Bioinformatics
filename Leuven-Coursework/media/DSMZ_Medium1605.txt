@@ -1,0 +1,67 @@
+1605. HLH-700 MEDIUM
+
+KCL                                                                2.609        g
+NH4Cl                                                              0.267        g
+MgSO4 x 7 H2O                                                    172.536       g
+K2HPO4                                                             0.030        g
+Na2SO4                                                            19.886        g
+Na2CO3                                                             0.023        g
+TES                                                                2.292        g
+Yeast Extract                                                      2.500        g
+NH4 (III)citrate                                                   0.006        g
+NaHCO3                                                             0.840        g
+BG-FPC (100x)                                                      1.000       ml
+
+Distilled water                                                  1000.00       ml
+
+Adjust pH to 8.0
+Sterilize at 121C for 15 minutes. After sterilization add 1 ml/l filter-sterilized Wolfe´s-
+vitamin solution.
+
+
+
+
+BG-FPC (100x):
+ NaNO3                                                           149.580        g
+ MgSO4x7H2O                                                        7.490        g
+ CaCl2x2H2O                                                        3.600        g
+ Na2 EDTA                                                          0.104        g
+ Trace minerals (10X)                                            100.000       ml
+
+Distilled water                                                  1000.00       ml
+
+
+
+
+Trace minerals (10x):
+ Co(NO3)2 x 6 H2O                                                 0.0494         g
+ CuSO4 x 4 H2O                                                     0.079         g
+ MnCl2 x 4 H2O                                                     1.810         g
+ ZnSO4                                                             0.222         g
+ H3BO3                                                             2.860         g
+ Na2MoO4 x 2 H2O                                                   0.390         g
+
+Distilled water                                                  1000.00       ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+Wolfe´s-Vitamins :
+Biotin                                      2.00   mg
+Folic acid                                  2.00   mg
+Pyridoxine-HCl                             10.00   mg
+Thiamine-HCl x 2 H2O                        5.00   mg
+Riboflavin                                  5.00   mg
+Nicotinic acid                              5.00   mg
+D-Ca-pantothenate                           5.00   mg
+Vitamin B12                                 0.10   mg
+p- Aminobenzoic acid                        5.00   mg
+Lipoic acid                                 5.00   mg
+Distilled water                          1000.00   ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

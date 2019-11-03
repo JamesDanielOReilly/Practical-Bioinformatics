@@ -1,0 +1,65 @@
+1634. SERPENTINOMONAS MINIMAL MEDIUM
+
+ Na2SO4                                                      0.0284        g
+ MgCl2 x 6 H2O                                               0.0404        g
+ NH4Cl                                                       0.0802        g
+ CAPS buffer                                                   3.32        g
+ dDistilled water                                            1000.00       ml
+
+
+
+Adjust the pH to 11 with NaOH. Fill into to screw-cap tubes, leaving 60% headspace and
+flush headspace with N2. Add 30% air and for DSM 103920 additionally add 50% H2.
+
+Autoclave medium for 20 min at 121°C, cool and add from sterile stock solutions while
+stirring:
+0.3 mM K2HPO4 (1ml of 300 mM stock solution per liter)
+5 mM CaCl2x2 H2O (5ml of 1 M stock solution per liter)
+4 mM Na-acetate (2ml of 2 M stock solution per liter)
+Vitamin solution 10 ml per liter
+Trace element solution 10 ml per liter
+Some precipitate will form.
+
+
+
+Vitamin solution :
+Folic acid                                                      2.0      mg
+Biotin                                                          2.0      mg
+Riboflavin                                                      5.0      mg
+Nicotinic acid                                                  5.0      mg
+Thiamine                                                        5.0      mg
+p-Aminobenzoic acid                                             5.0      mg
+Pyridoxine hydrochloride                                       10.0      mg
+Ca-pantothenate                                                 5.0      mg
+Vitamin B12                                                     0.1      mg
+Thioctic acid                                                   5.0      mg
+Monopotassium phosphate                                       900.0      mg
+Distilled water                                              1000.0      ml
+
+
+
+
+© 2008 DSMZ GmbH - All rights reserved
+Trace element solution:
+Na-EDTA x 2 H2O                             500   mg
+MgSO4 x 7 H2O                              3000   mg
+MnSO4 x H2O                                 500   mg
+NaCl                                       1000   mg
+FeSO4 x 7 H2O                               100   mg
+Co(NO3)2 x 6 H2O                            100   mg
+CaCL2 (anhydrous)                           100   mg
+ZnSO4 x 7 H2O                               100   mg
+CuSO4 x 5 H2O                                10   mg
+AlK(SO4)2(anhydrous)                         10   mg
+H3BO3                                        10   mg
+Na2MoO4 x 2 H2O                              10   mg
+Na2SeO3 (anhydrous)                           1   mg
+Na2WO4 x 2 H2O                               10   mg
+NiCl2 x 6 H2O                                20   mg
+Distilled water                          1000.0   ml
+
+
+
+
+© 2008 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,16 @@
+1563. SEA WATER LURIA BERTANI MEDIUM
+
+
+Tryptone                                   5.0    g
+Yeast extract                              2.5    g
+NaCl                                       2.5    g
+Distilled water                          500.0   ml
+Filtered Sea water                       500.0   ml
+
+Adjust pH to 8.0.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

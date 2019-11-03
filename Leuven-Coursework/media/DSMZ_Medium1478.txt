@@ -1,0 +1,76 @@
+1478. NATRANAEROARCHAEUM MEDIUM AARC1
+
+
+NaCl                                                             72.00     g
+K2HPO4                                                            2.50     g
+(NH4)2SO4                                                        0.125     g
+Na2CO3                                                          142.50     g
+NaHCO3                                                           22.50     g
+Trace element solution (see below)                                1.00    ml
+Sulfur powder                                                     2.00     g
+Distilled water                                                1000.00    ml
+
+Prepare the liquid medium. Dispense the medium into Hungate tubes or serum bottles
+under gassing with N2. Steam medium for 3h on each of 3 successive days. Before
+inoculation add from sterile stock solutions:
+
+1.20   mM     MgCl2X6H2O
+1.25   mM     NaHCO3
+3.00   Mm     NH4Cl
+50.0   mM     Sodium formate
+2.00   mM     Sodium acetate
+20.0   mg/l   Yeast extract
+1.00   ml/l   Vitamin mix (see below)
+1.00   mM     Sodium sulfide from 1M filter sterilized stock
+
+Trace element solution:
+ EDTA                                                             5.00     g
+ FeSO4 x 7 H2O                                                    2.00     g
+ ZnSO4                                                            0.10     g
+ MnCl2                                                            0.03     g
+ H3BO3                                                            0.30     g
+ CoCl2 x 6 H2O                                                    0.20     g
+ CuCl2 x 5 H2O                                                    0.01     g
+ NiCl2 x 6 H2O                                                    0.02     g
+ Na2MoO4 x 2 H2O                                                  0.02     g
+ Distilled water                                               1000.00    ml
+
+Final pH 3.0-4.0 (with HCl).
+                                                                  Continued on next page
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+Vitamin mix
+
+1: Acidic thiamine / Ca pantothenate solution
+ Thiamine                                                          5.0     mg
+ Ca pantothenate                                                   5.0     mg
+ Distilled water acidified to pH 3.0 with HCl                    100.0     ml
+
+2: Basic vitamin solution
+ Biotin                                                            2.0     mg
+ PABA (p-aminobenzoic acid)                                        5.0     mg
+ Nicotinic acid                                                    5.0     mg
+ Pyridoxine                                                       10.0     mg
+ 0.1N NaOH)                                                      100.0     ml
+
+3: Neutral folic acid / riboflavin solution
+ Folic acid                                                        2.0     mg
+ Riboflavin                                                        5.0     mg
+ Distilled water                                                 100.0     ml
+
+4: Neutral B12 solution
+ B12                                                               0.5     mg
+ Distilled water                                                 100.0     ml
+
+Sterilize by filtration.
+Mix the four solutions in the ratio1:1:1:1 and 1.0 ml/L or separately add 250 µl/L. of
+each solution.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

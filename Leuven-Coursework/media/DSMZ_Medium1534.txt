@@ -1,0 +1,66 @@
+1534. MARINIFILUM MEDIUM
+
+NaCl                                                       13.00          g
+MgCl2 x 6H2O                                                2.80          g
+KCl                                                         0.36          g
+NH4Cl                                                       0.25          g
+KH2PO4                                                      0.20          g
+CaCl2 x2H2O                                                 0.70          g
+Na2SO4                                                      1.42          g
+Glucose                                                     2.00          g
+Resazurin (0.1%)                                            1.00         ml
+Trace mineral element solution (SL10 medium 320)(see below) 1.00         ml
+Selenite-tungstate solution (see below)                     1.00         ml
+NaHCO3                                                      2.52          g
+Na2S x 9 H2O                                                0.50          g
+Vitamin solution V7 (Pfennig et al.1981) (see below)        1.00         ml
+Distilled water                                          1000.00         ml
+
+pH 7.0- 7.2
+
+Prepare the medium without NaHCO3, Na2S x 9 H2O, vitamin solution, Selenite-tungstate
+solution and glucose. Boil the medium in a water bath and cool under a stream of N2/CO2
+(80/20). Add the NaHCO3 to the cooled medium (the pH should be 7.0-7.2) and dispense
+the medium into Hungate tubes or serum bottles under a stream of N2/CO2 (80/20). Seal
+the tubes under N2/CO2 (80/20) and autoclave. To the cooled medium at the appropriate
+amounts of Na2S x 9 H2O, vitamin solution, Selenite-tungstate solution and glucose from
+sterile, anaerobic stock solutions.
+
+Selenite-tungstate solution:
+
+Na2SeO3 x5H2O                                                   3.0     mg
+Na2WO4 x 2H2O                                                   4.0     mg
+NaOH                                                            0.5      g
+Distilled water                                                1000     ml
+
+Trace element solution SL-10:
+ HCl (25%; 7.7 M)                                              10.0     ml
+ FeCl2 x 4 H2O                                                  1.5      g
+ ZnCl2                                                         70.0     mg
+ MnCl2 x 4 H2O                                                100.0     mg
+ H3BO3                                                          6.0     mg
+ CoCl2 x 6 H2O                                                190.0     mg
+ CuCl2 x 2 H2O                                                  2.0     mg
+ NiCl2 x 6 H2O                                                 24.0     mg
+ Na2MoO4 x 2 H2O                                               36.0     mg
+ Distilled water                                              990.0     ml
+© 2008 DSMZ GmbH - All rights reserved
+First dissolve FeCl2 in the HCl, then dilute in water, add and dissolve the other salts.
+Finally make up to 1000.0 ml.
+Adjust pH to 6.0.
+
+Vitamin solution V7:
+ Biotin                                                            20.0       mg
+ p-Aminobenzoic acid                                               50.0       mg
+ Vitamin B12                                                       50.0       mg
+ Thiamine-dichlorid                                                50.0       mg
+ Nicotinic acid                                                   100.0       mg
+ Ca-D-(+)-Panthothenic acid                                        25.0       mg
+ Pyridoxymine-Dihydrochloride                                     250.0       mg
+ Distilled water                                                 1000.0       ml
+
+
+
+
+© 2008 DSMZ GmbH - All rights reserved
+

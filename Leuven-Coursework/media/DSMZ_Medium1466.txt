@@ -1,0 +1,13 @@
+1466. NBRC702 MEDIUM
+Polypepton                                 10.0    g
+MgSO4 x 7H2O                                1.0    g
+Yeast extract                               2.0    g
+Agar                                       15.0    g
+Distilled water                          1000.0   ml
+pH 7.0
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

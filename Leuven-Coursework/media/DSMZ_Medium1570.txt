@@ -1,0 +1,37 @@
+1570. THIOGRANUM MEDIUM
+
+
+NaCl                                                                 30.00     g
+CaCl2 x 2 H2O                                                         0.15     g
+MgCl2 x 6 H2O                                                         3.05     g
+KCl                                                                   0.33     g
+(NH4)2SO4                                                             0.66     g
+Trace element solution (see medium 141)                              10.00    ml
+Phosphate buffer (see below)                                          5.00    ml
+Na2S2O3 x 5 H2O                                                       1.50     g
+NaHCO3                                                                2.50     g
+Vitamins solution (see medium 141)                                   10.00    ml
+Distilled water                                                    1000.00    ml
+
+Dissolve ingredients (except phosphate buffer, thiosulfate, bicarbonate and vitamins) and
+sparge medium with 80% N2 and 20% CO2 gas mixture for 30 - 45 min to make it anoxic.
+Dispense medium under same gas atmosphere into anoxic Hungate-type tubes or serum
+vials up to a volume of 20% and autoclave. Add phosphate buffer, thiosulfate, bicarbonate,
+and vitamin solution to the autoclaved medium from sterile anoxic stock solutions prepared
+under 100% N2 gas. Phosphate buffer, stock solutions of vitamins and thiosulfate are
+sterilized by filtration and stored under N2, whereas the solution of bicarbonate is prepared
+under 80% N2 and 20% CO2 gas mixture and autoclaved. Adjust pH of the complete
+medium to 6.7, if necessary. After inoculation pressurize vessels to 0.5 bar overpressure
+with sterile 80% N2 and 20% CO2 gas mixture and add sterile air in an amount that is
+equivalent to a volume of 20% of the headspace.
+
+Phosphate buffer:
+ KH2PO4                                                             119.00     g
+ K2HPO4                                                              21.00     g
+ Distilled water                                                   1000.00    ml
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

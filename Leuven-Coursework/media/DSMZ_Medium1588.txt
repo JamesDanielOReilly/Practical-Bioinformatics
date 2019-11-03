@@ -1,0 +1,34 @@
+1588. BRADYMONAS SEDIMINIS MEDIUM
+
+Solution A:
+ Peptone                                                           10.0        g
+ Meat extract                                                       3.0        g
+ NaCl                                                               5.0        g
+ D(+)-Trehalose                                                     1.0        g
+ Agar if appropriate                                               19.0        g
+ Tap water                                                        250.0       ml
+Sea water*                                                        750.0       ml
+
+Dissolve beef extract and peptone by heating in tap water, adjust pH to 7.8 and boil for
+10 min. Readjust pH to 7.3. Add agar and autoclave at 121C for 20 min. Directly after
+autoclaving, add warm (55C) sterile sea water. Liquid medium without agar should be
+combined when cooled to room temperature.
+
+*
+ Natural sea water is stored in the dark for at least three weeks to "age". If natural sea
+water is not available use artificial sea water:
+
+Artificial sea water
+ NaCl                                                             28.13        g
+ KCl                                                               0.77        g
+ CaCl2 x 2 H2O                                                     1.60        g
+ MgCl2 x 6 H2O                                                     4.80        g
+ NaHCO3                                                            0.11        g
+ MgSO4 x 7 H2O                                                     3.50        g
+ Distilled water                                                 1000.0       ml
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

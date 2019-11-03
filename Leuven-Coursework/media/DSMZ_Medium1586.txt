@@ -1,0 +1,45 @@
+1586. ISP2 MODIFIED MEDIUM FOR METHYLIBIUM
+
+
+ Yeast extract (Difco)                                        4.0        g
+ Malt extract (Difco)                                        10.0        g
+ Dextrose (Difco)                                             4.0        g
+ Trace element solution SL-10 (see below) (see medium 320)   1.00       ml
+ Agar                                                        20.0        g
+ Distilled water                                           1000.0       ml
+pH 7.2
+
+Sterilize 20 min/121C. After cooling to 60C add to the medium:
+Vitamin solution (see below) (see medium 600a)                   5.00   ml
+
+Trace element solution SL-10:
+ HCl (25%; 7.7 M)                                              10.00    ml
+ FeCl2 x 4 H2O                                                  1.50     g
+ ZnCl2                                                         70.00    mg
+ MnCl2 x 4 H2O                                                100.00    mg
+ H3BO3                                                          6.00    mg
+ CoCl2 x 6 H2O                                                190.00    mg
+ CuCl2 x 2 H2O                                                  2.00    mg
+ NiCl2 x 6 H2O                                                 24.00    mg
+ Na2MoO4 x 2 H2O                                               36.00    mg
+ Distilled water                                              990.00    ml
+
+Vitamin solution:
+ Vitamin B12                                                     0.2    mg
+ Biotin                                                          4.0    mg
+ Thiamine-HCl x 2 H2O                                           10.0    mg
+ Ca-pantothenate                                                10.0    mg
+ Folic acid                                                      1.0    mg
+ Riboflavin                                                     10.0    mg
+ Nicotinamide                                                   10.0    mg
+ p-Aminobenzoic acid                                            10.0    mg
+ Pyridoxine hydrochloride                                       10.0    mg
+ Distilled water                                              1000.0    ml
+
+Filter-sterilized.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

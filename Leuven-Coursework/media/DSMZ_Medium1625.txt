@@ -1,0 +1,12 @@
+1625. TAP WATER YEAST EXTRACT MEDIUM (TWYE)
+
+Yeast extract                               0.25    g
+K2HPO4                                      0.50    g
+Agar                                       18.00    g
+Tap water                                1000.00   ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

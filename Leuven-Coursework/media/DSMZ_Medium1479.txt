@@ -1,0 +1,68 @@
+1479. HALODESULFURIARCHAEUM MEDIUM
+
+
+NaCl                                                        240.00      g
+K2HPO4                                                        2.50      g
+(NH4)2SO4                                                     0.50      g
+HEPES                                                        10.00      g
+Trace element solution (see below)                            1.00     ml
+sulfur powder                                                 2.00      g
+Distilled water                                            1000.00     ml
+
+Prepare the liquid medium. Dispense the medium into Hungate tubes or serum bottles
+under gassing with N2. Steam medium for 3h on each of 3 successive days. Before
+inoculation add from sterile stock solutions:
+
+3.00   mM     MgCl2X6H2O
+5.00   mM     NaHCO3
+50.0   mM     sodium formate
+0.20   g/l    yeast extract
+1.00   ml/l   Vitamin mix (pfennig & Lippert,1966) see below
+1.00   mM     sodium sulfide from 1M filter sterilized stock
+
+Trace element solution:
+ EDTA                                                         5.00      g
+ FeSO4 x 7 H2O                                                2.00      g
+ ZnSO4                                                        0.10      g
+ MnCl2                                                        0.03      g
+ H3BO3                                                        0.30      g
+ CoCl2 x 6 H2O                                                0.20      g
+ CuCl2 x 5 H2O                                                0.01      g
+ NiCl2 x 6 H2O                                                0.02      g
+ Na2MoO4 x 2 H2O                                              0.02      g
+ Distilled water                                           1000.00     ml
+
+Final pH 3.0-4.0 (with HCl).
+                                                               Continued on next page
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+Vitamin mix (pfennig & Lippert,1966)
+
+1: acidic solution (HCl, pH3; 100ml)
+Thiamin                                                            5.0   mg
+Ca Pantotenate                                                     5.0   mg
+
+2: basic solution (100ml 0.1N NaOH)
+Biotin                                                             2.0   mg
+PABA (p-aminobenzoic acid)                                         5.0   mg
+Nicotinic acid                                                     5.0   mg
+Pyridoxine                                                        10.0   mg
+
+3: Neutral solution in 100 ml demi water
+Folic acid                                                         2.0   mg
+Riboflavin                                                         5.0   mg
+
+4: neutral solution in 100 ml demi water
+B12                                                                0.5   mg
+
+Sterilize by filtration.
+Mix 1:1:1:1 just after addition or add separatlely, each 1ml/L.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

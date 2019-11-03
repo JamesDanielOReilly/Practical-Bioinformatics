@@ -1,0 +1,39 @@
+1529. GEOGLOBUS AHANGARI MEDIUM
+
+
+Fe(III) citrate                                                      11.20    g
+NaCl                                                                 19.00    g
+MgCl2 x 6 H2O                                                         9.00    g
+MgSO4 x 7 H2O                                                         0.15    g
+CaCl2 x 2 H2O                                                         0.30    g
+KCl                                                                   0.10    g
+KH2PO4                                                                0.60    g
+(NH4)2SO4                                                             0.10    g
+NaBr                                                                  0.05    g
+SrCl2                                                                 0.02    g
+Trace element solution SL-10 (see medium 320)                         1.00   ml
+NaHCO3                                                                2.50    g
+Yeast extract                                                         0.10    g
+Na-pyruvate                                                           1.00    g
+Vitamin solution (see medium 141)                                    10.00   ml
+FeCl2 x 4 H2O                                                         0.20    g
+L-Cysteine-HCl x H2O                                                  0.10    g
+Distilled water                                                     980.00   ml
+
+First dissolve ferric citrate in water by heating and adjust to pH 5.8, then cool to room
+temperature. Add other compounds (except bicarbonate, yeast extract,
+pyruvate,vitamins, ferrous chloride and cysteine) and sparge medium with 80% N2 and
+20% CO2 gas mixture for 30 – 45 min to make it anoxic, then add bicarbonate and
+adjust pH to 7.2 - 7.5. Dispense medium under 80% N2 and 20% CO2 gas atmosphere
+into anoxic Hungate-type tubes or serum vials and autocalve. Prior to inoculation add
+yeast extract, pyruvate, vitamins, ferrous chloride (dissolved in 0.2 N HCl) and cysteine
+from sterile anoxic stock solutions prepared under 100% N2 gas. Stock solutions of
+pyruvate, vitamins and ferrous chloride should be sterilized by filtration. Adjust pH of the
+complete medium to 6.8 – 7.0.
+Note: Use 5 - 10% (v/v) inoculum.
+
+
+
+
+© 2014 DSMZ GmbH - All rights reserved
+

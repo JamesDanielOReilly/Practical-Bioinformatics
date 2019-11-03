@@ -1,0 +1,19 @@
+1522. ACETOBACTER LAMBICUS MEDIUM
+
+
+Yeast extract                                                         8.0        g
+Peptone                                                              15.0        g
+Glucose                                                              10.0        g
+Acetic acid                                                           3.0       ml
+Ethanol                                                               5.0       ml
+Distilled water                                                     992.0       ml
+
+The ethanol and acetic acid are sterilized separately by filtration (use filter resistant to
+these solvents), and added aseptically to the sterile medium.
+Adjust pH to 3,5 with concentrated HCl after autoclaving.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

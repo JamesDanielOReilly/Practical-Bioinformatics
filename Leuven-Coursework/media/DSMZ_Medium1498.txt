@@ -1,0 +1,47 @@
+1498. PE MEDIUM
+
+Sodium glutamate                                                 0.5    g
+Sodium succinate                                                 0.5    g
+Sodium acetate                                                   0.5    g
+Sodium thiosulfate                                               0.5    g
+Yeast extract (BD)                                               0.5    g
+Casamino acids (BD)                                              0.5    g
+(NH4)2SO4                                                        0.5    g
+Basal salts solution                                             5.0    g
+Phosphate solution                                               5.0    g
+Agar                                                           15.00    g
+Distilled Water                                              1000.00   ml
+pH 7.5
+
+Autoclave and add 1ml/l Vitamin solution (see Medium 87A)
+
+
+
+Basal Salts Solution:
+3Na-EDTA                                                       4.532    g
+FeSO4 x 7H2O                                                   1.110    g
+MgSO4 x 7H20                                                  24.650    g
+CaCl2 x 2H2O                                                   2.940    g
+NaCl                                                          23.400    g
+MnSO4 x 4H2O                                                  0.1116    g
+ZnSO4 x 7H2O                                                  0.0288    g
+Co(NO3)2 x 6H2O                                               0.0292    g
+CuSO4 x 6H2O                                                  0.0252    g
+Na2MoO4 x 2H2O                                                0.0242    g
+H3BO3                                                         0.0310    g
+Distilled Water                                             1000.000   ml
+Adjust to pH 7.0 with 10% KOH.
+
+
+
+Phosphate solution (1M) :
+KH2PO4                                                        136.09    g
+K2HPO4                                                        228.23    g
+Distilled water                                              1000.00   ml
+pH 7.2
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+© 2012 DSMZ GmbH - All rights reserved
+

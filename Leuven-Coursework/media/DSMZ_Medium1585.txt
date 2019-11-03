@@ -1,0 +1,24 @@
+1585. SULFURIFERULA MULTIVORANS MEDIUM
+
+
+Na2HPO4 x 12 H2O                                                    3.00    g
+KH2PO4                                                              1.80    g
+MgSO4 x 7 H2O                                                       0.10    g
+(NH4)2SO4                                                           0.10    g
+CaCl2 x 2 H2O                                                       0.04    g
+FeCl3 x 6 H2O                                                       0.03    g
+MnSO4 x 5 H2O                                                       0.03    g
+Na2S2O3 x 5 H2O                                                    10.00    g
+Distilled water                                                  1000.00   ml
+
+Dissolve ingredients except thiosulfate and adjust pH of medium to 6.5 -7.0. Dispense
+medium under air atmosphere into serum vials suitable for anaerobic cultivation (e.g.,
+20 ml medium in 100 ml bottles) and close with butyl rubber septa. After autoclaving
+complete medium with thiosulfate added from a stock solution sterilized by filtration and
+add 3% (v/v) sterile CO2 to the gas phase.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

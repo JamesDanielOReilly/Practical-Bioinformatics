@@ -1,0 +1,23 @@
+1460. 28% MH MEDIUM
+
+
+NaCl                                                        195.00       g
+MgCl2                                                        32.50       g
+MgSO4                                                        50.80       g
+CaCl2                                                         0.80       g
+KCl                                                           5.00       g
+NaHCO3                                                        0.16       g
+NaBr                                                          0.60       g
+Yeast extract (Difco)                                         5.00       g
+Distilled water                                            1000.00      ml
+
+Final pH 7.5
+Add all the components together, except NaHCO3 which is added from a sterilized stock
+solution when the autoclaved medium has cooled. Agar is added at a concentration of 20
+g/l for solid media.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

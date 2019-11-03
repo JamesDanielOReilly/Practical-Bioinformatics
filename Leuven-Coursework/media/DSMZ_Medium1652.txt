@@ -1,0 +1,27 @@
+1652. RH MEDIUM
+
+
+L-Proline                                   0.50    g
+Yeast extract                               4.00    g
+Pepton                                      0.50    g
+Casamino acids                              0.50    g
+Trehalose                                   1.00    g
+Glucose                                     0.50    g
+ Soluble starch                             0.50    g
+ Na-pyruvate                                0.30    g
+ K2HPO4                                     0.30    g
+ MgSO4 x 7H2O                               0.10    g
+ KNO3                                       0.50    g
+ FeSO4 x7H2O                                0.01    g
+ Agar                                      15.00    g
+ Distilled water                         1000.00   ml
+
+Final pH 7.2;
+
+And autoclave for 15 min at 121C.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

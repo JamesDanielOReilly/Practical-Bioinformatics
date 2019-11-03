@@ -1,0 +1,47 @@
+1511. PLANTOMYCETACEAE MEDIUM SBP2
+
+Mineral Salts Solution:
+KH2PO4                                                           0.33       g
+NH4Cl                                                            0.33       g
+MgCl2                                                            1.20      mg
+CaCl2                                                            1.20      mg
+KCl                                                              0.33       g
+Trace Element Solution (medium 1473)                             1.00      ml
+Vitamin Solution (see medium141)                                 1.00      ml
+Distilled water                                               1000.00      ml
+
+Trace Element Solution:
+ (NH4)2Fe(SO4)2 x 6 H2O                                         784.0      mg
+ NiCl2 x 2 H2O                                                  225.0      mg
+ CoCl2 x 6 H2O                                                   38.0      mg
+ MnCl2 x 4 H2O                                                   99.0      mg
+ ZnSO4 x 7 H2O                                                  144.0      mg
+ Na2SeO4                                                         95.0      mg
+ Na2WO4 x 2H2O                                                   33.0      mg
+ Na2MoO4 x 2 H2O                                                 24.0      mg
+ H3BO3                                                            6.0      mg
+ CuCl2 x 2 H2O                                                    2.0      mg
+ Distilled water                                               1000.0      ml
+
+
+Prepare the liquid medium. Dispense the medium into culture vessels. Sterilize by
+autoclaving. Before inoculation add from sterile stock solutions:
+
+KNO3                                                               1.0       g
+Glucose                                                            2.0       g
+Vitamin Solution (see medium141)                                   1.0      ml
+NaHCO3 (8% solution)                                              12.5      ml
+
+The 8% NaHCO3 solution may be either filter sterilized or autoclaved. When the solution
+is autoclaved use tightly closed vessels that are filled to a maximum of 50% of the total
+volume.
+
+
+
+The final pH of the medium should be adjusted to pH 7.6-8.0.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,35 @@
+1455. ALTERNATIVE RUMEN BACTERIA MEDIUM
+
+
+K2HPO4                                                          0.23       g
+KH2PO4                                                          0.23       g
+NaCl                                                            0.45       g
+(NH4)2SO4                                                       0.45       g
+CaCl2 x 2 H2O                                                   0.06       g
+MgSO4 x 7 H2O                                                   0.09       g
+Brain Heart Infusion (BD BBL)                                   6.00       g
+Yeast extract                                                   5.00       g
+Volatile fatty acids mixture (see medium 330)                   3.10      ml
+Haemin solution (0.05% w/v, see medium 78)                      2.00      ml
+Na-resazurin solution (0.1% w/v)                                0.50      ml
+NaHCO3                                                          6.40       g
+Na2-succinate                                                   5.00       g
+Vitamin solution (see medium 141)                              10.00      ml
+L-Cysteine-HCl x H2O                                            0.30       g
+Na2S x 9 H2O                                                    0.30       g
+Distilled water                                              1000.00      ml
+
+Dissolve ingredients except bicarbonate, succinate, vitamins, cysteine and sulfide, then
+sparge medium with 100% CO2 gas for 30 – 45 min to make it anoxic. Add the
+bicarbonate and equilibrate the medium with the CO2 gas to reach a pH between 6.5 and
+7.0. Dispense medium under 100% CO2 gas atmosphere into anoxic Hungate-type tubes
+or serum vials and autoclave. Add succinate, vitamins, cysteine and sulfide from sterile
+anoxic stock solutions prepared under 100% N2 gas. The vitamin solution should be
+sterilized by filtration. Prior to use adjust pH of complete medium to 6.6 - 6.8, if
+necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

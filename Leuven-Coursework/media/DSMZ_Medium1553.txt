@@ -1,0 +1,19 @@
+1553. MICROVIRGA FLOCULATUS MEDIUM
+
+
+Peptone (BD 211677)                                  0.25    g
+Yeast extract (BD 212750)                            0.25    g
+K2HPO4                                               0.10    g
+NaH2PO4                                              0.05    g
+MgSO4 x 7 H2O                                        0.02    g
+Distilled water                                    1000.0   ml
+
+Adjust pH to 7.0
+
+Media may be solidified by adding 15.0 g/l agar.
+
+
+
+
+© 2010 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,46 @@
+1507. GALLIONELLA (ES) MEDIUM
+
+
+Solution A:
+ NH4Cl                                                              1.00    g
+ MgSO4 x 7 H2O                                                      0.20    g
+ CaCl2 x 2 H2O                                                      0.10    g
+ K2HPO4                                                             0.05    g
+ Wolfe’s Mineral Elixir (see medium 792)                            1.00   ml
+ NaHCO3                                                             0.50    g
+ Low melt agarose                                                   1.50    g
+ Distilled water                                                  900.00   ml
+
+Solution B:
+ Vitamin solution (see medium 141)                                 10.00   ml
+Sterilize by filtration and store at 4°C in the dark.
+
+Solution C:
+  FeSO4 x 7 H2O                                                     15.40     g
+  Na2S x 9 H2O                                                      13.20     g
+  Distilled water                                                  100.00 ml
+Heat distilled water to 50°C in a 250 ml beaker with a stir bar present. While rapidly
+stirring the water, add the ferrous sulfate followed immediately by the sodium sulfide.
+The formed black FeS sludge is decanted into a glass bottle that can be stoppered. The
+FeS is allowed to settle for several hours and then the overlying water is decanted and
+replaced. This procedure is repeated at least five times to wash the FeS. After washing,
+the pH of the FeS solution should be close to neutrality. The FeS suspension can be kept
+in closed bottles or tubes under a nitrogen atmosphere for at least three months.
+
+Preparation of the bottom layer: Mix 1 volume of solution A with 1 volume of solution
+C and add 1% (w/v) agarose. After autoclaving, aseptically fill 1.2 ml of the suspension
+in sterile screw capped tubes (10 ml total volume). The bottom layer solidifies in approx.
+30 min.
+Preparation of the top layer: Add bicarbonate and low melt agarose to solution A and
+autoclave. Let the sterile solution cool to 40°C and add 10.00 ml/l of solution B. Sparge
+solution with sterile 100% CO2 gas until a pH of 6.1 – 6.4 is reached. Then, aseptically
+pipette aliquots of 6.0 ml over the bottom layer of each tube and let medium equilibrate
+for at least three hours, but not longer than 12 hours.
+Inoculation: Inoculate the semisolid top layer with a pipette that is inserted just above
+the FeS layer; the pipette tip is drawn upward as the inoculum is dispensed.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

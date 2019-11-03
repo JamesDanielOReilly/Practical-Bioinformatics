@@ -1,0 +1,38 @@
+1554. NITROSOSPHAERA MEDIUM
+
+
+ NaCl                                                              1.00  g
+ KCl                                                               0.50  g
+ MgSO4 x 7 H2O                                                     0.40  g
+ CaCl2 x 2 H2O                                                     0.10  g
+ KH2PO4                                                            0.20  g
+ Trace elements solution SL-11 (see medium 722)                    1.00 ml
+ HEPES buffer solution (see below)                                10.00 ml
+ NH4Cl                                                             0.05  g
+ NaHCO3                                                            0.25  g
+ Catalase (SIGMA C1345)                                            2.50 mg
+ Vitamin solution (see medium 141)                                10.00 ml
+ Distilled water                                                1000.00 ml
+
+Dissolve ingredients (except trace elements,HEPES buffer, ammonium chloride catalase
+and vitamin solution), dispense medium into Erlenmeyer flasks with screw caps (e.g., 20
+ml medium per 100 ml flask) and autoclave. Add HEPES buffer and ammonium chloride
+from stock solutions sterilized by autoclaving. Trace elements, bicarbonate, and vitamins
+are added from stock solutions sterilized by filtration. Adjust pH of the complete medium
+to 7.5 using sterile solutions of bicarbonate (5% w/v) or 1 N HCl. After inoculation, add
+to the medium 5 – 10 units/ml catalase from a 1.00 mg/ml stock solution freshly
+prepared in 20 mM HEPES buffer (pH 7.5) and sterilized by filtration.
+Note: Use at least 5 - 10% (v/v) inoculum and incubate in the dark without shaking.
+
+HEPES buffer solution:
+ NaOH (pellets)                                                  24.00     g
+ HEPES (free acid)                                              238.40     g
+ Distilled water                                               1000.00 ml
+Fist dissolve NaOH in ca 600 ml water, then add HEPES, adjust pH to 7.6 -7.7 and fill up
+to 1000 ml volume.
+
+
+
+
+© 2017 DSMZ GmbH - All rights reserved
+

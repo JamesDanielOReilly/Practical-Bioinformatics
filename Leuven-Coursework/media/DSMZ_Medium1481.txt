@@ -1,0 +1,23 @@
+1481. HALOFERAX MEDIUM RS75
+
+
+ NaCl                                     160.0    g
+ MgCl2 x 6 H2O                             50.0    g
+ K2SO4                                      5.0    g
+ CaCl2 x 2 H2O                              0.1    g
+ Na pyruvate                                2.0    g
+ Na acetate x 3 H2O                         0.5    g
+ Na malate                                  0.5    g
+ Yeast extract                              1.0    g
+ Tryptone                                   0.5    g
+ Glucose                                    0.5    g
+ Agar                                      20.0    g
+ Distilled water                         1000.0   ml
+
+Adjust to pH 6.8
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

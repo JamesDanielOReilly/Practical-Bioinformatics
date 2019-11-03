@@ -1,0 +1,27 @@
+1528. HALOLAMINA MEDIUM (NOM-3)
+
+KCl                                                        5.40   g
+K2HPO4                                                     0.30   g
+CaCl2x2H2O                                                 0.25   g
+NH4Cl                                                      0.25   g
+MgSO4 x 7 H2O                                             26.80   g
+MgCl2x6H2O                                                23.00   g
+NaCl                                                     184.00   g
+Yeast extract                                              1.00   g
+Bacto Peptone (BD 211677)                                  0.50   g
+Sodium formate                                             0.25   g
+Sodium lactate                                             0.25   g
+Sodium actate                                              0.25   g
+Sodium pyruvate                                            0.25   g
+Agar                                                      20.00   g
+
+
+
+Add distilled water to give a final volume of 1000 ml.
+Adjust pH to 7.0
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

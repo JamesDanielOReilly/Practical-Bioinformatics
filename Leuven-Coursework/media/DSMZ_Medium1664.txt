@@ -1,0 +1,51 @@
+1664 Sphaerotilus natans subspec. sulfidivorans medium
+
+(NH4)Cl                                                              0.3       g
+
+NaCl                                                               3.62       g
+KH2PO4                                                             0.09       g
+K2HPO4                                                             0.22       g
+Na2HPO4 x 7H20                                                     0.35       g
+MgSO4 x 7H20                                                       0.23       g
+CaCl2                                                              0.28       g
+FeCl3 x 6H2                                                        0.25      mg
+Na2SO4                                                             0.05       g
+Na2S2SO3                                                           1.0        g
+
+Distilled water                                                    1000      ml
+
+Dissolve ingredients (except vitamins) in distilled water. After sterilization add the 25ml
+SLM.
+
+
+
+Trace element solution
+  Trace element solution:
+ EDTA                                                               0.2       g
+ FeSO4 x 7 H2O                                                      0.7       g
+ ZnSO4 x 7 H2O                                                     0.01       g
+ MnSO4 x 4 H2O                                                      2.0      mg
+ CuSO4 x 5 H2O                                                      5.0      mg
+ H3BO3                                                             0.01       g
+ Co(NO3)2                                                           1.0       g
+ Na2MoO4 x 2 H2O                                                    1.0       g
+
+Distilled water                                                    1000      ml
+
+
+Standard vitamin solution:
+Riboflavin                                                        10.00      mg
+Thiamine-HCl x 2 H2O                                               50.0      mg
+Nicotinic acid                                                     50.0      mg
+Pyridoxine-HCl                                                     50.0      mg
+Ca-pantothenate                                                    50.0      mg
+Biotin                                                              0.1      mg
+Folic acid                                                          0.2      mg
+Vitamin B12                                                         1.0      mg
+Distilled water                                                     100      ml
+
+
+
+
+© 2014 DSMZ GmbH - All rights reserved
+

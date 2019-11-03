@@ -1,0 +1,16 @@
+1509. NB-PYRUVATE AGAR
+
+Solution A:
+ Nutrient Broth                             6.0    g
+ NaCl                                       1.5    g
+ Na-Pyruvate                                1.0    g
+ Agar                                      14.0    g
+ Distilled water                         1000.0   ml
+
+Adjust to pH 7.0.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,28 @@
+1525. KALLOTENUE MEDIUM
+
+
+ HEPES buffer (SIGMA)                                               3.57  g
+ NH4Cl                                                             27.00 mg
+ CaSO4 x 2 H2O                                                     60.00 mg
+ MgSO4 x 7 H2O                                                      0.10  g
+ NaCl                                                               8.00 mg
+ KNO3                                                               0.10  g
+ NaNO3                                                              0.69  g
+ Na2HPO4                                                            0.11  g
+ Trace elements solution (see medium 141)                          10.00 ml
+ D-Glucose                                                          2.00  g
+ Trypticase peptone (BD BBL)                                        1.00  g
+ Vitamin solution (see medium 141)                                 10.00 ml
+ Distilled water                                                 1000.00 ml
+
+Dissolve ingredients (except glucose, peptone and vitamins) and adjust pH to 8.1.
+Dispense medium under air atmosphere into culture vessels suitable for anaerobic
+cultivation (e.g., 10 ml medium per Balch-type tube), seal and autoclave. Add glucose,
+peptone and vitamins from sterile stock solutions sterilized by filtration. Adjust pH of
+complete medium to 7.5, if necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

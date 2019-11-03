@@ -1,0 +1,33 @@
+1515. OCEANIRHABDUS MEDIUM
+
+
+Na2SO4                                                           1.0     g
+NaCl                                                            30.0     g
+KCl                                                              0.7     g
+MgCl2 x 6 H2O                                                    5.0     g
+CaCl2 x 2 H2O                                                    1.0     g
+K2HPO4                                                           0.4     g
+KH2PO4                                                           0.4     g
+NH4Cl                                                            0.5     g
+(NH4)2Fe(SO4)2 x 6 H2O solution (0.1% w/v)                       2.0    ml
+Trace elements solution SL-10 (see medium 320)                   1.0    ml
+Yeast extract (OXOID)                                            3.0     g
+Tryptone (BD Bacto)                                              4.0     g
+Na-acetate                                                       6.8     g
+Na-resazurin solution (0.1% w/v)                                 0.5    ml
+L-Cysteine-HCl x H2O                                             0.6     g
+NaHCO3                                                           2.5     g
+Distilled water                                               1000.0    ml
+
+Dissolve ingredients except cysteine and bicarbonate, then sparge medium with 80% N2
+and 20% CO2 gas mixture for 30 – 45 min to make it anoxic. Add and dissolve cysteine,
+adjust pH to 6.5, then dispense medium under 80% N2 and 20% CO2 gas atmosphere
+into anoxic Hungate-type tubes or serum vials and autoclave. Add bicarbonate from a
+sterile anoxic stock solution prepared under 80% N2 and 20% CO2 gas mixture. Prior to
+use adjust pH of complete medium to 6.5 - 7.0, if necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

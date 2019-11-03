@@ -1,0 +1,37 @@
+1451. DEFERRISOMA MEDIUM
+
+
+ KH2PO4                                                              0.33    g
+ NH4Cl                                                               0.33    g
+ KCl                                                                 0.33    g
+ NaCl                                                               18.00    g
+ CaCl2 x 2 H2O                                                       0.33    g
+ MgCl2 x 6 H2O                                                       4.00    g
+ Yeast extract                                                       0.20    g
+ Trace element solution SL-10 (see medium 320)                       1.00   ml
+ Selenite-tungstate solution (see medium 385)                        1.00   ml
+ Fe(III)-citrate (19% Fe)                                            2.50    g
+ NaHCO3                                                              2.50    g
+ Vitamin solution (see medium 141)                                  10.00   ml
+ Distilled water                                                  1000.00   ml
+
+Dissolve ingredients (except ferric citrate, bicarbonate and vitamins) and sparge medium
+with 80% N2 and 20% CO2 gas mixture for 30 – 45 min to make it anoxic. Dispense
+medium under same gas atmosphere into anoxic Hungate-type tubes or serum vials and
+autoclave. Add ferric citrate (dissolve by boiling and adjust pH to 6.5 – 7.0) and vitamins
+from sterile anoxic stock solutions prepared under 100% N2 gas and bicarbonate from a
+sterile anoxic stock solution prepared under 80% N2 and 20% CO2 gas mixture. Sterilize
+vitamins by filtration. Adjust pH of the complete medium to 6.5, if necessary.
+
+
+
+For DSM 103037 supplement autoclaved medium with 0.41 g/l Na-acetate, 0.34 g/l Na-
+formate, 1.00 g/l D-glucose and 0.10 g/l Na2S x 9 H2O added from sterile anoxic stock
+solutions. Reduce amount of bicarbonate to 1.00 g/l and adjust pH of complete medium
+to 5.5 – 6.0.
+
+
+
+
+© 2016 DSMZ GmbH - All rights reserved
+

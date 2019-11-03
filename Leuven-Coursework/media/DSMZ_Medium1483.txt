@@ -1,0 +1,27 @@
+1483. HALARCHAEUM MEDIUM RS94
+
+
+ NaCl                                     200.0    g
+ MgCl2 x 6 H2O                             25.0    g
+ K2SO4                                      5.0    g
+ CaCl2 x 2 H2O                              0.1    g
+ NH2H2PO4 x 2 H2O                           0.2    g
+ Na2HPO4 x 12 H2O                           0.4    g
+ Na pyruvate                                2.0    g
+ Na acetate                                 0.5    g
+ Na malate                                  0.5    g
+ Casein hydrolysate (Oxoid LP0041)          2.0    g
+ Yeast extract (BD212750)                   1.0    g
+ Tryptone (BD211921)                        0.5    g
+ Glucose                                    0.5    g
+ Micronutrients on Pfennig                  1.0   mL
+ Agar                                      20.0    g
+ Distilled water                         1000.0   ml
+
+Adjust to pH 7.1
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,22 @@
+1666. MAG Modified arabinose gluconate medium
+
+
+KH2PO4                                      0.22    g
+Hepes                                       1.30    g
+NH4Cl                                       0.32    g
+MgCl2 x 6 H2O                               0.18    g
+Na2SO4                                      0.25    g
+Arabinose                                   1.00    g
+Yeast extract                               1.00    g
+Gluconic acid                               1.00    g
+MES                                         1.10    g
+FeCL3 0.67%                                 1.00   ml
+CaCl2 1.5%                                  1.00   ml
+Distilled water                          1000.00   ml
+Adjust pH to pH 6.6
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,84 @@
+1567. METHYLOPROFUNDUS SEDIMENTI MEDIUM
+
+Solution 1 (10x NMS salts):
+KNO3                                                             10.00        g
+MgSO4 x 6 H2O                                                    10.00        g
+CaCl2 x 2 H2O                                                     2.00        g
+Distilled water                                                1000.00       ml
+
+Dissolve the ingredients listed above (in that order) in about 700 ml of distilled water,
+and then make up to 1 litre.
+
+Solution 2 Phosphate buffer (10x)
+Na2HPO4 x 12 H2O                                                 71.60        g
+KH2PO4                                                           26.00        g
+Distilled water                                                1000.00       ml
+
+Dissolve in about 800 ml of water, adjust the pH to 6.8 and make up to 1 litre.
+
+Solution 3 Trace element solution (medium 141)
+ Nitrilotriacetic acid                                               1.50      g
+ MgSO4 x 7 H2O                                                       3.00      g
+ MnSO4 x H2O                                                         0.50      g
+ NaCl                                                                1.00      g
+ FeSO4 x 7 H2O                                                       0.10      g
+ CoSO4 x 7 H2O                                                       0.18      g
+ CaCl2 x 2 H2O                                                       0.10      g
+ ZnSO4 x 7 H2O                                                       0.18      g
+ CuSO4 x 5 H2O                                                       0.01      g
+ KAl(SO4)2 x 12 H2O                                                  0.02      g
+ H3BO3                                                               0.01      g
+ Na2MoO4 x 2 H2O                                                     0.01      g
+ NiCl2 x 6 H2O                                                       0.03      g
+ Na2SeO3 x 5 H2O                                                     0.30    mg
+ Distilled water                                                 1000.00      ml
+First dissolve nitrilotriacetic acid and adjust pH to 6.5 with KOH, then add minerals. Final
+pH 7.0 (with KOH).
+
+Solution 4 Vitamin solution (medium 141)
+Biotin                                                            2.00       mg
+Folic acid                                                        2.00       mg
+Pyridoxine-HCl                                                   10.00       mg
+Thiamine-HCl x 2 H2O                                              5.00       mg
+Riboflavin                                                        5.00       mg
+Nicotinic acid                                                    5.00       mg
+D-Ca-pantothenate                                                 5.00       mg
+Vitamin B12                                                       0.10       mg
+p-Aminobenzoic acid                                               5.00       mg
+Lipoic acid                                                       5.00       mg
+Distilled water                                                1000.00       ml
+                                                        Continued on next   page(Fe EDTA):
+© 2007 DSMZ GmbH - All rights reserved
+Solution 5 Sodium chloride (15x)
+NaCl                                                            300.0       g
+Distilled water                                                1000.0      ml
+
+
+Solution 6 (Fe EDTA):
+Fe EDTA                                                          3.80       g
+Distilled water                                               1000.00      ml
+
+To make liquid 1x NMS
+Solution 1 (NMS)                                                100.0      ml
+Solution 2 (Phosphate buffer)                                    10.0      ml
+Solution 3 (Trace elements)                                       1.0      ml
+Solution 4 (vitamine solution)                                    1.0      ml
+Solution 5 (NaCl)                                                66.0      ml
+Solution 6 (Fe EDTA))                                             0.4      ml
+
+Bring to 1 liter with distilled water.
+
+Prepare the growth medium as follows:
+Dilute 100 ml solution 1 to 1 litre with distilled water and then add 1 ml of solution 3,
+66 ml solution 5 and 0.4 ml of solution 6. Dispense the medium into the growth vessels.
+If using sealed vessels it is appropriate to add 50% methane to the gas phase and
+autoclave at 121C (15psi) for 15 minutes. Autoclave the phosphate buffer separately.
+Filter sterilized the vitamin solution. When the growth medium is cool 1.0 ml/l vitamin
+solution and 10 ml/l of the phosphate buffer are added - if too warm the phosphate will
+precipitate. Liquid cultures should be grown with shaking.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

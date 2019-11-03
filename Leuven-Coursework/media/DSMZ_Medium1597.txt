@@ -1,0 +1,73 @@
+1597. METHANOSALSUM NATRONOPHILUM MEDIUM
+
+
+Solution A:
+Na2CO3                                          71.25    g
+NaHCO3                                          11.25    g
+NaCl                                             4.00    g
+K2HPO4                                           0.75    g
+Distilled water                                750.00   ml
+
+Solution B:
+NaCl                                            30.00    g
+K2HPO4                                           0.25    g
+KCl                                              0.25    g
+Distilled water                                250.00   ml
+
+Solution C:
+Trace elements solution (see medium 1369)        1.00   ml
+
+Solution D:
+Selenite-tungstate solution (see medium 385)     1.00   ml
+
+Solution E:
+NH4Cl                                            0.20    g
+MgSO4 x 7 H2O                                    0.25    g
+Distilled water                                  5.00   ml
+
+Solution F:
+Methanol                                         3.00   ml
+
+Solution G:
+Yeast extract                                    0.02    g
+Distilled water                                  5.00   ml
+
+Solution H:
+2-Mercaptoethanesulfonic acid (coenzyme M)       0.15    g
+Distilled water                                 10.00   ml
+
+
+
+                                                 Continued next page
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+Solution I:
+Vitamin solution (see medium 141)                                    10.00   ml
+
+Solution J:
+Na2S x 9 H2O                                                          0.25    g
+Distilled water                                                      10.00   ml
+
+Sterilize solutions A and B in closed thick-walled screw-top bottles (e.g., SCHOTT) for 20
+min at 120°C. The pH of solution A after sterilization should be 10. There is some
+precipitate forming that settles at the bottom after 3 – 4 days. It is best to remove
+precipitates by decantation before using solution A for medium preparation.
+Combine solution A with solution B and sparge medium with 100% N2 gas for at least 30
+– 45 min to make it anoxic, then dispense under same gas atmosphere into anoxic
+Hungate-type tubes or serum vials and autoclave. Solutions C to J are sterilized
+separately under 100% N2 gas. Vitamins and coenzyme M should be sterilized by
+filtration. To complete the medium appropriate amounts of solutions C to J are added to
+the combined sterile solutions A and B in the sequence as indicated. Final pH of the
+medium should be 9.5.
+Note: Addition of 10 - 20 mg sodium dithionite per liter (e.g. from 5% (w/v) solution,
+freshly prepared under N2 and filter-sterilized) may stimulate growth at the beginning. For
+transfers use 5 - 10% inoculum.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

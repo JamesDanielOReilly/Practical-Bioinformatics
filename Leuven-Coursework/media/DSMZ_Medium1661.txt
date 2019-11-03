@@ -1,0 +1,30 @@
+1661. ALKALIPHILUS NAMSARAEVII MEDIUM
+
+
+ KH2PO4                                                             0.50    g
+ NaCl                                                              25.00    g
+ Yeast extract                                                      2.50    g
+ NaHCO3                                                             1.85    g
+ Na2CO3                                                             1.20    g
+ Trace element solution SL-10 (see medium 320)                      1.00   ml
+ Selenite-tungstate solution (see medium 385)                       1.00   ml
+ Fe(III)-citrate (19% Fe)                                           7.30    g
+ MgCl2 x 6 H2O                                                      0.20    g
+ Vitamin solution (see medium 141)                                 10.00   ml
+ Distilled water                                                 1000.00   ml
+
+Dissolve ingredients (except bicarbonate, carbonate, trace elements, ferric citrate,
+magnesium chloride and vitamins) and sparge medium with 100% N2 gas for 30 – 45
+min to make it anoxic. Add and dissolve bicarbonate and carbonate, then adjust pH to
+9.5 and dispense medium under 100% N2 gas atmosphere into anoxic Hungate-type
+tubes or serum vials and autoclave. Add ferric citrate (10% w/v stock solution; dissolve
+by boiling and adjust pH to 7.5-8.0), trace elements, selenite-tungstate solution,
+magnesium chloride and vitamins from sterile anoxic stock solutions prepared under
+100% N2 gas. Sterilize vitamins by filtration. Adjust pH of the complete medium to 9.5, if
+necessary.
+
+
+
+
+© 2017 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,22 @@
+1654. GILLIAMELLA MEDIUM
+
+
+Proteose peptone                                                 20.00        g
+Beef extract                                                      3.00        g
+Yeast extract                                                     3.00        g
+Malt extract                                                      3.00        g
+Dextrose                                                          5.00        g
+ACES                                                              3.64        g
+Agar if appropriate                                              14.00        g
+Charcoal for medical application (in agar only)                   2.00        g
+Distilled water                                                 990.00       ml
+Na-Ascorbate solution                                            10.00       ml
+
+Add ascorbate solution ( 20 g per litre) after autoclaving and cooling. Final pH of the
+medium is 7.2. Charcoal should be omitted in liquid medium.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,65 @@
+1491. CYCLONATRONUM PROTEIVORANS MEDIUM (OMEGA)
+
+Mineral Salts Solution:
+Na2CO3                                                           5.00        g
+NaCl                                                            10.00        g
+K2HPO4                                                           1.00        g
+Trace metals (Pfennig&Lippert, 1966) (see medium 1478)           1.00       ml
+Distilled water                                               1000.00       ml
+
+pH 10.0 - 10.1
+
+
+Prepare the liquid medium. Sterilize by autoclaving. Before inoculation add from sterile
+stock solutions:
+Yeast extract                                                     20.0     mg
+Pepton                                                             2.0       g
+Vitamin Solution (see below) (medium 1478)                         1.0      ml
+
+
+Trace element solution (Pfennig & Lippert,1966):
+ EDTA                                                            5.00        g
+ FeSO4 x 7 H2O                                                   2.00        g
+ ZnSO4                                                           0.10        g
+ MnCl2                                                           0.03        g
+ H3BO3                                                           0.30        g
+ CoCl2 x 6 H2O                                                   0.20        g
+ CuCl2 x 5 H2O                                                   0.01        g
+ NiCl2 x 6 H2O                                                   0.02        g
+ Na2MoO4 x 2 H2O                                                 0.02        g
+ Distilled water                                              1000.00       ml
+
+Final pH 3.0-4.0 (with HCl).
+                                                                  Continued on next page
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+Vitamin mix (Pfennig & Lippert,1966) (see medium 1478)
+
+1: acidic solution (HCl, pH3; 100ml)
+Thiamin                                                            5.0   mg
+Ca Pantotenate                                                     5.0   mg
+
+2: basic solution (100ml 0.1N NaOH)
+Biotin                                                             2.0   mg
+PABA (p-aminobenzoic acid)                                         5.0   mg
+Nicotinic acid                                                     5.0   mg
+Pyridoxine                                                        10.0   mg
+
+3: Neutral solution in 100 ml demi water
+Folic acid                                                         2.0   mg
+Riboflavin                                                         5.0   mg
+
+4: neutral solution in 100 ml demi water
+B12                                                                0.5   mg
+
+Sterilize by filtration.
+Mix 1:1:1:1 just after addition or add separatlely, each 1ml/L.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

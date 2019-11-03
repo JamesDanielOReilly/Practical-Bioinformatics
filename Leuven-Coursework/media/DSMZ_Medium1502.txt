@@ -1,0 +1,42 @@
+1502. METHYLOBACTER MEDIUM M10 XCF
+
+MgSO4 x 7 H2O                                                     0.10       g
+NH4Cl                                                             0.50       g
+Na2HPO4 x 12 H2O                                                  0.50       g
+CaCl2 x 6 H2O                                                     0.01       g
+FeSO4 x 7 H2O                                                     5.00      mg
+FeEDTA                                                            0.05       g
+Trace element solution (see below)                                1.00      ml
+CuSO4                                                             0.02       g
+Distilled water                                                 1000.0      ml
+
+Dispense the medium into the culture vessels. For small volumes serum bottles or
+Hungate tubes may be used. The gas phase to liquid ratio should be about 1:10. Use a
+gas phase containing air, 10-20% methane and 5-10% CO2 and autoclave at 121C for
+15 minutes. When the growth medium is cool the NaHCO3 is added.
+Liquid cultures should be grown with shaking.
+
+Add to the sterile medium per liter from a 8% filter sterilised stock solution:
+ NaHCO3                                                             9.45      ml
+
+
+
+Adjust the pH with 1M NaOH or H2SO4 to 8.0-8.4 (after autoclaving and mixing all
+solutions the pH should be 8.0-8.4)
+
+
+
+Trace element solution:
+ ZnSO4 x 7 H2O                                                    0.44        g
+ CuSO4 x 5 H2O                                                    0.20        g
+ MnSO4 x 2 H2O                                                    0.17        g
+ Na2MoO4 x 2 H2O                                                  0.06        g
+ H3BO3                                                            0.10        g
+ CoCl2 x 6 H2O                                                    0.08        g
+ Distilled water                                              1000.000       ml
+
+
+
+
+© 2008 DSMZ GmbH - All rights reserved
+

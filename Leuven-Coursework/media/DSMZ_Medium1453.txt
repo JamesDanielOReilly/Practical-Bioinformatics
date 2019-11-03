@@ -1,0 +1,21 @@
+1453. ALTERYTHROBACTER MEDIUM 216L
+
+Mineral Salts Solution:
+ Sodium Acetate                                                  1.0       g
+ Tryptone                                                       10.0       g
+ Yeast Extract                                                   2.0       g
+ Sodium Citrate                                                  0.5       g
+ NH4NO3                                                          0.2       g
+ Distilled Water                                              1000.0      ml
+
+
+
+
+Adjust to pH 7.5 and sterilize by autoclaving. The medium may be solidified by adding
+12.0 g/l agar.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,36 @@
+1659. RHODOBACTER MARINUS MEDIUM (NKPB)
+
+
+ KH2PO4                                     0.60    g
+ K2HPO4                                     0.90    g
+ MgSO4 x 7 H2O                              0.20    g
+ FeSO4 x 7 H2O                             12.00   mg
+ Na2EDTA                                   20.00   mg
+ NH4Cl                                      1.25    g
+ NaCl                                      15.00    g
+ CaCl2 x 2 H2O                             75.00   mg
+ DL-malate                                  6.00    g
+ Yeast extract                              0.50    g
+ Peptone                                    0.50    g
+ Trace elements (see below)                 1.00   ml
+ Biotin                                    15.00   µg
+ Distilled water                         1000.00   ml
+
+Adjust pH to 7.6 with NaOH.
+
+
+
+Trace elements:
+
+ H3BO3                                      2.80    g
+ MnSO4 x H2O                                2.10    g
+ Na2MoO4 x 2 H2O                            0.75    g
+ ZnSO4 x 7 H2O                              0.24    g
+ Cu(NO3)2 x 3 H2O                           0.04    g
+ Distilled water                         1000.00   ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

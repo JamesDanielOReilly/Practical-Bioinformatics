@@ -1,0 +1,24 @@
+1450. HALOARCULA ALGERIENSIS MEDIUM
+
+ NaCl                                                         200.0       g
+ MgSO4 x 7 H2O                                                 20.0       g
+ KCl                                                            1.0       g
+ KH2PO4                                                         0.3       g
+ Casaminoacids                                                  0.5       g
+ Bacto-Peptone                                                  0.5       g
+ Yeast Extract                                                  0.5       g
+ Glucose                                                        0.5       g
+ Starch soluble                                                 0.5       g
+ Sodium pyruvate                                                0.3       g
+ Distilled Water                                             1000.0      ml
+
+When making media solidified with agar (20 g/l) the agar should not be autoclaved with
+the NaCl.
+
+Adjust to pH 7.2
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,30 @@
+1579. PYROBACULUM FERRIREDUCENS MEDIUM
+
+
+NH4Cl                                                              0.33     g
+KCl                                                                0.33     g
+KH2PO4                                                             0.33     g
+MgCl2 x 6 H2O                                                      0.33     g
+CaCl2 x 2 H2O                                                      0.33     g
+Trace element solution SL10 (see medium 320)                       1.00    ml
+Selenite-tungstate solution (see medium 385)                       1.00    ml
+Yeast extract                                                      1.00     g
+KNO3                                                               1.00     g
+NaHCO3                                                             2.00     g
+Vitamin solution (see medium 141)                                 10.00    ml
+Distilled water                                                 1000.00    ml
+
+Dissolve ingredients (except yeast extract, nitrate, bicarbonate and vitamins) and sparge
+medium with 100% CO2 gas for at least 30 – 45 min to make it anoxic, then dispense
+under same gas atmosphere into anoxic Hungate-type tubes or serum vials and
+autoclave. After autoclaving add yeast extract, nitrate and vitamins from sterile anoxic
+stock solutions prepared under 100% N2 gas and bicarbonate from a sterile anoxic stock
+solution prepared under 80% N2 and 20% CO2 gas atmosphere. Vitamins should be
+sterilized by filtration. The pH of the complete medium should be adjusted to 6.5 – 6.8,
+if necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,20 @@
+1530. MODIFIED TRYPTONE SOY BROTH/AGAR
+
+
+ Peptone from casein                                        17.0       g
+ Peptone from soymeal                                        3.0       g
+ D(+)-Glucose                                                2.5       g
+ NaCl                                                       45.0       g
+ K2HPO4                                                      2.5       g
+ Na2CO3                                                     10.0       g
+ Distilled water                                          1000.0      ml
+
+Adjust pH to 10.5
+The basic medium is the same as Caso Bouillon (Merck or Oxoid). The medium may be
+solidified by adding 20.0 g/l agar.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

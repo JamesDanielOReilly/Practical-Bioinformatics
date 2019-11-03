@@ -1,0 +1,22 @@
+1520. HALOPIGER MEDIUM (SG)
+
+
+NaCl                                                           250.0          g
+KCl                                                              3.0          g
+Trisodium citrate                                                3.0          g
+MgSO4 x 7 H2O                                                   20.0          g
+Yeast extract (Difco)                                            1.0          g
+Casamino acids (Difco)                                           7.5          g
+Agar, if necessary                                              20.0          g
+
+
+
+Add distilled water to give a final volume of 1000 ml.
+Adjust pH to 8.0 before autoclaving!
+If solid medium is prepared, autoclave agar and sodium chloride separately.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

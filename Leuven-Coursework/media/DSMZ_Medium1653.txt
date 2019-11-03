@@ -1,0 +1,49 @@
+1653. METHYLOMONAS MEDIUM (ELBE)
+
+
+MgCl2 x 6 H2O                                                    9.27     g
+KCl                                                             10.00     g
+CaCl2 x 2 H2O                                                    1.22     g
+1M HEPES buffer                                                 10.00    ml
+Trace elements SL 10 (see below)                                 1.00    ml
+PO4 buffer (see below)                                           3.00    ml
+Vitamins (see below)                                             5.00    ml
+Vitamin B12 (50mg/l)                                             1.00    ml
+Agar                                                            20.00     g
+Distilled water                                               1000.000   ml
+
+
+
+PO4 buffer:
+Na2HPO4 x 2H2O                                                   0.90     g
+KH2PO4                                                           0.30     g
+
+Trace element solution SL-10:
+ HCl (25%; 7.7 M)                                               10.0     ml
+ FeCl2 x 4 H2O                                                   1.5      g
+ ZnCl2                                                          70.0     mg
+ MnCl2 x 4 H2O                                                 100.0     mg
+ H3BO3                                                           6.0     mg
+ CoCl2 x 6 H2O                                                 190.0     mg
+ CuCl2 x 2 H2O                                                   2.0     mg
+ NiCl2 x 6 H2O                                                  24.0     mg
+ Na2MoO4 x 2 H2O                                                36.0     mg
+ Distilled water                                               990.0     ml
+
+Vitamin solution:
+ Biotin                                                         10.00    mg
+ ρ-Aminobenzoic acid                                            50.00    mg
+ Ca-pantothenate                                                10.00    mg
+ Pyridoxamine dihydrochloride                                  250.00    mg
+ Nicotinic acid                                                100.00    mg
+ Thiamine-HCl x 2 H2O                                           20.00    mg
+ Distilled water                                              1000.00    ml
+
+The strains DSM xxxx only grow on agar based media and not in liquid media. The gas
+atmosphere is air:methane 1:1.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

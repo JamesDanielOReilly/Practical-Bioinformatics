@@ -1,0 +1,22 @@
+Microorganisms
+
+
+
+
+1467. T5 MEDIUM
+
+ Tryptone                                   0.5    g
+ Yeast extract                              2.0    g
+ Glucose                                    5.0    g
+ NaCl                                     100.0    g
+ CaCO3                                      1.0    g
+ Agar, if needed                           20.0    g
+ Distilled water                         1000.0   ml
+
+Adjust to pH 7.0
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

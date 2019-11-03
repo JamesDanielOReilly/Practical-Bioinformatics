@@ -1,0 +1,58 @@
+1474. PROLIXIBACTER MEDIUM GYSW
+
+
+NH4Cl                                                             0.54        g
+KH2PO4                                                            0.14        g
+MgCl2 x 6 H2O                                                     0.20        g
+CaCl2 x 2 H2O                                                     0.15        g
+Trace elements (see below)                                       10.00       ml
+Vitamin solution (see medium 141)                                10.00       ml
+Resazurin solution (see below)                                    1.00       ml
+D-Glucose                                                         1.80        g
+Yeast extract (Difco)                                             1.00        g
+NaHCO3                                                            2.52        g
+Cysteine-HCl x H2O                                                0.50        g
+Na2S x 9 H2O                                                      0.50        g
+Distilled water                                                1000.00       ml
+
+Prepare the liquid medium without Vitamin solution, Cysteine-HCl x H2O and Na2S x 9
+H2O. Adjust to pH 7.0 with 1 M NaOH. Dispense the medium into Hungate tubes or
+serum bottles under gassing with N2:CO2 (80:20 v/v). Sterilize by autoclaving. Before
+inoculation add from sterile stock solutions Cysteine-HCl x H2O, Vitamin solution (filter
+sterilized) and Na2S x 9 H2O.
+
+
+
+Trace element solution:
+ nitrilotriacetic acid                                          12.800        g
+ FeCl3 x 6 H2O                                                   1.350        g
+ MnSO4 x H2O                                                     0.100        g
+ CoCl2 x 6 H2O                                                   0.024        g
+ CaCl2 x 2 H2O                                                   0.100        g
+ ZnCl2                                                           0.100        g
+ CuCl2 x 5 H2O                                                   0.025        g
+ H3BO3                                                           0.010        g
+ Na2MoO4 x 2 H2O                                                 0.024        g
+ NaCl                                                            1.000        g
+ NiCl2 x 6 H2O                                                   0.120        g
+ Na2SeO3 x 5 H2O                                                 0.004        g
+ Na2WO4                                                          0.004        g
+ Distilled water                                              1000.000       ml
+
+First dissolve nitrilotriacetic acid and adjust pH to 6.5 with KOH, then add minerals.
+Final pH 7.0 (with KOH).
+                                                                     Continued on next page
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+Resazurin solution:
+Resazurin                                1.0   mg
+Distilled Water                          1.0    L
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

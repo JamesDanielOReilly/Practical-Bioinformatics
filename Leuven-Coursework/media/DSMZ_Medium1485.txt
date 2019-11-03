@@ -1,0 +1,54 @@
+1485. DESULFONATRONUM ALKALITOLERANS MEDIUM
+
+
+Solution A:
+NaCl                                                              6.0     g
+K2HPO4                                                            1.0     g
+NaHCO3                                                           32.0     g
+Na2CO3                                                           10.6     g
+Na2SO4                                                            2.8     g
+Na-acetate                                                        0.2     g
+Distilled water                                                 950.0    ml
+
+Solution B:
+Trace elements solution (see medium 1369)                         1.0    ml
+
+Solution C:
+Selenite-tungstate solution (see medium 385)                      1.0    ml
+
+Solution D:
+NH4Cl                                                             0.2     g
+Distilled water                                                  10.0    ml
+
+Solution G:
+MgCl2 x 6 H2O                                                     0.2     g
+Distilled water                                                  10.0    ml
+
+Solution F:
+Yeast extract                                                    20.0    mg
+Distilled water                                                  10.0    ml
+
+Solution G:
+Na-formate                                                        3.4     g
+Distilled water                                                  10.0    ml
+
+Solution H:
+Na2S x 9 H2O                                                      0.30    g
+Distilled water                                                  10.00   ml
+
+Dissolve ingredients of solution A except carbonates, sparge with 100% N2 gas for 30 -
+45 min to make it anoxic, then add bicarbonate and carbonate, adjust pH to 9.0,
+dispense under same gas atmosphere into anoxic Hungate-type tubes or serum vials and
+autoclave.
+                                                                 Continued on next page
+
+© 2015 DSMZ GmbH - All rights reserved
+Prior to inoculation complete the medium by adding appropriate amounts of sterile
+solutions B to H prepared under 100% N2 gas atmosphere. Adjust pH of the complete
+medium to 8.7 – 9.0, if necessary.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

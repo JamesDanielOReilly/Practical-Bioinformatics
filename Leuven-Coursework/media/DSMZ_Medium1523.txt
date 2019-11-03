@@ -1,0 +1,47 @@
+1523. MODIFIED METHANOBACTERIUM MEDIUM
+
+
+KH2PO4                                                              0.50     g
+MgSO4 x 7 H2O                                                       0.40     g
+NaCl                                                                0.40     g
+NH4Cl                                                               0.40     g
+CaCl2 x 2 H2O                                                       0.05     g
+Trace element solution SL-10 (see medium 320)                       1.00    ml
+Brain Heart Infusion (BD Bacto)                                     6.00     g
+Proteose peptone (BD Difco)                                         6.00     g
+Yeast extract (OXOID)                                               2.00     g
+Na-acetate                                                          1.00     g
+Na-formate                                                          2.00     g
+Na-resazurin solution (0.1% w/v)                                    0.50    ml
+NaHCO3                                                              4.00     g
+Vitamins solution (see medium 503)                                  1.00    ml
+L-Cysteine-HCl x H2O                                                0.50     g
+Na2S x 9 H2O                                                        0.50     g
+Distilled water                                                  1000.00    ml
+
+Dissolve ingredients except bicarbonate, vitamins, cysteine and sulfide, then sparge
+medium with 80% H2 and 20% CO2 gas mixture for 30 – 45 min to make it anoxic. Add
+and dissolve bicarbonate, then dispense medium under 80% H2 and 20% CO2 gas
+atmosphere into anoxic Hungate-type tubes or serum vials and autoclave. Add vitamins,
+cysteine and sulfide from sterile anoxic stock solutions prepared under 100% N2 gas.
+The vitamin solution should be sterilized by filtration. Prior to use check pH of complete
+medium and adjust to 6.8 - 7.0, if necessary. After growth has started and the culture is
+becoming turbid add sterile 80% H2 and 20% CO2 gas mixture to 0.5 - 1 bar
+overpressure.
+
+
+
+For DSM 1093 supplement medium after autoclaving with 0.50 g/l coenzyme M (2-
+mercaptoethanesulfonic acid) added from a filter-sterilized anoxic stock solution
+prepared under N2.
+
+For DSM 2640, DSM 2702, DSM 3823, DSM 4140, DSM 4179, DSM 4273, DSM 4274 and
+DSM 10196 increase amount of Na-acetate to 4.00 g/l.
+
+For DSM 15163 adjust pH of complete medium to 6.0.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

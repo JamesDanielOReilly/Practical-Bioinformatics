@@ -1,0 +1,67 @@
+1524. PLANCTOMYCETES MEDIUM NH11
+
+
+
+Hutner's basal salts (see below)                                20.00       ml
+Peptone (Bacto)                                                  0.50        g
+Glucose                                                          0.25        g
+HEPES (10mM)                                                     2.38        g
+Atificial seawater (see below)(see medium 600a)                500.00       ml
+Agar (Bacto)                                                    15.00        g
+Distilled water                                                965.00       ml
+
+Sterilize 20 min/121C. After cooling to 60C add to the medium:
+Vitamin sol. (see medium 621) (see below)                        5.00       ml
+
+Adjust pH to 7.5 (the medium is only weakly buffered; one needs approx. 10 drops/l
+medium of 6 N KOH).
+
+Hutner's basal salts:
+Nitrilotriacetic acid (NTA)                                     10.00       g
+MgSO4 x 7 H2O                                                   29.70       g
+CaCl2 x 2 H2O                                                    3.34       g
+Na2MoO4 x 2 H2O                                                 12.67      mg
+FeSO4 x 7 H2O                                                   99.00      mg
+Metall salt sol. "44" (see medium 590)                          50.00      ml
+Distilled water                                                900.00      ml
+
+Dissolve NTA first by neutralizing with KOH, then add other salts. Adjust pH to 7.2 with
+KOH or H2SO4. Adjust volume to 1000.0 ml with distilled water.
+
+
+Artifical sea water:
+ NaCl                                                           23.47       g
+ Na2SO4                                                          3.92       g
+ MgCl2 x 6 H2O                                                  10.64       g
+ CaCl2                                                           1.10       g
+ NaHCO3                                                         192.0      mg
+ KCl                                                            664.0      mg
+ KBr                                                             96.0      mg
+ H3BO3                                                           26.0      mg
+ SrCl2                                                           24.0      mg
+ NaF                                                              3.0      mg
+ Distilled water                                               1000.0      ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+Vitamin solution (double conc.):
+ Biotin                                     4.00   mg
+ Folic acid                                 4.00   mg
+ Pyridoxine-HCl                            20.00   mg
+ Riboflavine                               10.00   mg
+ Thiamine-HCl x 2 H2O                      10.00   mg
+ Nicotinamide                              10.00   mg
+ D-Ca-pantothenate                         10.00   mg
+ Vitamin B12                                0.20   mg
+ p-Aminobenzoic acid                       10.00   mg
+ Distilled water                         1000.00   ml
+
+Store in the dark and cold (5C).
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,19 @@
+1595. CM MEDIUM
+
+
+Beef extract                                         0.50    g
+Yeast extract                                        0.50    g
+Peptone                                              1.00    g
+NaCl                                                 0.50    g
+D-Glucose                                            1.00    g
+Distilled water                                    1000.0   ml
+
+Adjust pH to 7.0-7.2.
+
+Media may be solidified by adding 14.0 g/l agar.
+
+
+
+
+© 2010 DSMZ GmbH - All rights reserved
+

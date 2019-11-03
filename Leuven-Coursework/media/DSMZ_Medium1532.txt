@@ -1,0 +1,19 @@
+1532. ANTIBIOTIC MEDIUM 1
+
+
+Yeast extract                                             3.0   g
+Beef extract                                              1.5   g
+Pancreatic Digest of Casein                               4.0   g
+Peptone                                                   6.0   g
+Glucose                                                   1.0   g
+Agar                                                     20.0   g
+
+pH 6.55
+
+or Difco Antibiotic Medium 1 (BD, order number 226340)
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

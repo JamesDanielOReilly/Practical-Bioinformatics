@@ -1,0 +1,24 @@
+1657. PARACRAUROCOCCUS MEDIUM
+
+ Tryptone                                           0.50    g
+ Yeast extract                                      2.00    g
+ Glucose                                            1.00    g
+ Soluble starch                                     1.00    g
+ CaSO4 x 2 H2O                                      0.04    g
+ Eisen(III)citrate (10%)                            0.05   ml
+ K2HPO4 x3 H2O                                      0.01    g
+ KH2PO4                                             0.01    g
+ NaHCO3                                             0.10    g
+ NaCl                                               0.20    g
+ CaCl2 x 2 H2O                                      0.02    g
+ MgSO4 x7 H2O                                       0.02    g
+ Agar                                              20.00    g
+ Distilled water                                 1000.00   ml
+
+Adjust to pH 7.5 and sterilize by autoclaving.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

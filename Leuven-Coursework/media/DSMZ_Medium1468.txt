@@ -1,0 +1,24 @@
+1468. HALORHABDUS SEGORENSIS S21 MEDIUM
+
+
+NaCl                                                            41.00        g
+MgCl2 x 6 H2O                                                  203.00        g
+CaCl2 x 2 H2O                                                    29.4        g
+KCl                                                               7.5        g
+Yeast extract                                                    1.00        g
+Casamino acids (with vitamins)                                   1.00        g
+Soluble starch                                                   2.00        g
+Agar, if necessary                                              20.00        g
+Distilled water                                               1000.00       ml
+
+Before autoclaving adjust pH to 7.0 with NaOH.
+For solid medium sterilize the MgCl2 x 6 H2O dissolved in 500 ml distilled water by
+autoclaving. Dissolve the remaining ingredients in 500 ml distilled water (including 20.0
+g agar), sterilise by autoclaving, cool to about 50°C and then mix with the warm sterile
+MgCl2 solution before pouring the plates.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

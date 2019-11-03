@@ -1,0 +1,36 @@
+1592. Cyanobacteria Medium BG11 ‐   
+                          Volume                      Stock Solutions
+                          [mL/L]                           [g/L]
+MgSO4 ∙ 7H2O                10                              7.5
+CaCl2 ∙ 2H2O                 10                             3.6
+Na3‐citrate                  10                             0.6
+Na2‐EDTA ∙ 2H2O              10                             0.1
+Trace metal mix              1                                ‐
+Adjust to 990 mL with de‐ionized or distilled water and autoclave.
+
+
+After cooling, add the following filter components:
+                          Volume                      Stock Solutions
+                          [mL/L]                           [g/L]
+        BG11‐Mix             2                               ‐
+     Vitamin B12              2                             0.01
+
+
+Stock solutions
+
+BG11‐Mix                    [g/L]
+K2HPO4 ∙ 3H2O                20
+Na2CO3                       10
+Fe‐NH4‐citrate                3
+
+
+Trace metal mix             [g/L]                          [ml/L]
+H3BO3                        2.9                             <‐
+MnCl2 ∙ 4H2O                1.81                             <‐
+ZnSO4 ∙ 7H2O                0.22                             <‐
+Na2MoO4 ∙ 2H2O              0.39                             <‐
+
+CuSO4 ∙ 5H2O                 ->            10 ml of a 0.8 g/100 ml stock solution
+
+Co(NO3)2 ∙ 6H2O              ->            10 ml of a 0.5 g/100 ml stock solution
+

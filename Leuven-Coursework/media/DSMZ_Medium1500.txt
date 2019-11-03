@@ -1,0 +1,76 @@
+ACANTHAMOEBA MEDIUM
+
+
+Media for maintenance of infected amoeba cultures
+
+Trypticase Soy Broth with Yeast Extract (TSY)
+Trypticase Soy Broth                                                30          g
+Yeast extract                                                       10          g
+Distilled water                                                     1000        ml
+
+Adjust pH to 7.3, autoclave at 121°C
+
+OR
+
+Peptone-yeast-glucose medium (PYG)
+Proteose peptone                                                    20          g
+Glucose                                                             18          g
+Yeast extract                                                       2           g
+Sodium citrate dihydrate                                            1           g
+MgSO4 x 7H2O                                                        0.98        g
+Na2HPO4 x 7H2O                                                      0.355       g
+KH2PO4                                                              0.34        g
+Fe(NH4)2(SO4)2 x 6H2O                                               0.02        g
+Distilled water                                                     1000        ml
+
+Adjust pH to 6.5, autoclave at 110°C or filter-sterilize
+
+
+
+Maintenance conditions
+Infected amoeba cultures can be maintained e.g. in 25 cm2 flasks (e.g. Nunc flasks,
+VWR, 734-2081, Thermo-Scientific, 156340) at 20-30°C in an incubator (no special
+requirements concerning CO2 or light).
+
+
+
+Maintenance/Passage of infected amoeba cultures
+Infected Acanthamoeba cultures don’t have to be transferred to fresh culture flasks as
+frequently as usually done for mammalian cell cultures. Amoeba cultures can be
+maintained in the same flask for several weeks or months. However, if the cultures reach
+a high cell density, medium should be exchanged. For that purpose amoebae are
+detached from the surface of the flask by knocking at the culture flask (no trypsin
+required, amoebae are only weakly adherent compared to most mammalian cells) and
+the medium (containing the majority of cells) is then completely removed. Fresh medium
+is added and the few remaining attached amoebae will continue to grow.
+Alternatively, cultures can also be passaged regularly (e.g. weekly) by transfer of a small
+aliquot of a densely grown culture (after cell detachment, as described above) to a fresh
+flask containing medium.
+If cultures contain few attached cells, but high amounts of cell debris, medium should be
+exchanged without prior cell detachment. Cultures usually recover fast.
+Depending on the host cell strain, the bacteria may cause host cell lysis. To maintain
+
+© 2009 DSMZ GmbH - All rights reserved
+such cultures, bacteria have to be transferred by adding culture supernatant
+(approximately 0.5 ml) to fresh culture flasks containing uninfected host cells
+(approximately semi-confluent culture) each 7-10 days.
+
+Storage
+Bacteria released from host cells can be stored in
+
+Sucrose-Phosphate-Glutamate buffer
+Sucrose                                                             75            g
+KH2PO4                                                              0.52          g
+Na2HPO4 x 2H2O                                                      1.53          g
+Glutamic acid                                                       0.75          g
+Distilled water                                                     1000          ml
+
+at -80°C for several months.
+
+Infected cell cultures (supplemented with 10% DMSO) are best stored in liquid nitrogen.
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+

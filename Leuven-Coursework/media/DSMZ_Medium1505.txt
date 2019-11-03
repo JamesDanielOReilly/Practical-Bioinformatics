@@ -1,0 +1,25 @@
+1505. PROTEINIVORAX MEDIUM
+
+
+ KH2PO4                                                           0.30    g
+ MgSO4 x 7 H2O                                                    0.12    g
+ CaCl2 x 2 H2O                                                    0.03    g
+ NaCl                                                            20.00    g
+ Tryptone (BD Bacto)                                              3.00    g
+ Trace element solution SL-10 (see medium 320)                    1.00   ml
+ Na2CO3                                                          60.00    g
+ NaHCO3                                                          50.00    g
+ Na-Thioglycolate                                                 1.00    g
+ Distilled water                                               1000.00   ml
+
+Dissolve ingredients (except carbonates and thioglycolate), then sparge medium with
+100% N2 gas for 30 - 45 min to make it anoxic. Add carbonate and hydrogencarbonate,
+adjust pH to 8.5 – 9.0, dispense medium under 100% N2 gas atmosphere into anoxic
+Hungate-type tubes or serum vials and autoclave. After autoclaving add thioglycolate
+from an anoxic stock solution prepared under 100% N2 gas and sterilized by filtration.
+
+
+
+
+© 2015 DSMZ GmbH - All rights reserved
+

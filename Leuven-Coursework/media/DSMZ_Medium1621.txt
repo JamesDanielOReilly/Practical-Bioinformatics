@@ -1,0 +1,21 @@
+1621. MARINIBACTRUM MEDIUM
+
+
+Marine broth (Becton Dickinson)             7.48    g
+Artificial sea water                      750.00   ml
+Distilled water                            250.0   ml
+
+Artificial sea water (DSMZ medium 246):
+ NaCl                                      28.13    g
+ KCl                                        0.77    g
+ CaCl2 x 2 H2O                              1.60    g
+ MgCl2 x 6 H2O                              4.80    g
+ NaHCO3                                     0.11    g
+ MgSO4 x 7 H2O                              3.50    g
+ Distilled water                          1000.0   ml
+
+
+
+
+© 2011 DSMZ GmbH - All rights reserved
+

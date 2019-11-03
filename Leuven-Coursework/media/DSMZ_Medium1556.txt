@@ -1,0 +1,23 @@
+1556. BM7 MEDIUM
+
+Cultivation of Liberibacter sp.
+
+ACES-buffer                                                         10.0    g
+Na2 -ketoglutarate                                                  2.0    g
+KOH                                                                 3.75    g
+destilled water                                                      550   ml
+
+adjust pH to 6.9, autoclave for 15 minutes and allow to cool.
+Add aseptically
+
+Fetal Bovine Serum                                                  150    ml
+TMN-FH Medium (Sigma-Aldrich, T3285)                                300    ml
+
+
+For preparation of agar plates add 15 g agar per liter of medium.
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+

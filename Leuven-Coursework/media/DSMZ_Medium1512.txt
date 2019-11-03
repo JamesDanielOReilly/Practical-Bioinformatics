@@ -1,0 +1,79 @@
+1512. SCGYEM- MEDIUM
+
+
+Medium for maintenance of infected amoeba cultures
+
+
+Solution A
+Casein                                                              10          g
+Na2HPO4 x 7H2O                                                      0.355       g
+Distilled water                                                     800         ml
+
+Adjust pH to > 8.0, autoclave at 110°C
+
+Solution B
+Glucose                                                             2.5         g
+KH2PO4                                                              0.8         g
+Distilled water                                                     50          ml
+
+Filter-sterilize
+
+Solution C
+Yeast extract                                                       5           g
+Distilled water                                                     50          ml
+
+Filter-sterilize
+
+
+Working Medium
+Combine Solutions A, B and C and add
+Fetal Bovine Serum (heat-inactivated, 56°C, 30 min)                 100         ml
+
+
+Maintenance conditions
+Infected amoeba cultures can be maintained e.g. in 25 cm2 flasks (e.g. Nunc flasks,
+VWR, 734-2081, Thermo-Scientific, 156340) at 20-30°C in an incubator (no special
+requirements concerning CO2 or light).
+
+
+
+Maintenance/Passage of infected amoeba cultures
+Infected Acanthamoeba cultures don’t have to be transferred to fresh culture flasks as
+frequently as usually done for mammalian cell cultures. Amoeba cultures can be
+maintained in the same flask for several weeks or months. However, if the cultures reach
+a high cell density, medium should be exchanged. For that purpose amoebae are
+detached from the surface of the flask by knocking at the culture flask (no trypsin
+required, amoebae are only weakly adherent compared to most mammalian cells) and
+the medium (containing the majority of cells) is then completely removed. Fresh medium
+is added and the few remaining attached amoebae will continue to grow.
+Alternatively, cultures can also be passaged regularly (e.g. weekly) by transfer of a small
+aliquot of a densely grown culture (after cell detachment, as described above) to a fresh
+flask containing medium.
+
+© 2009 DSMZ GmbH - All rights reserved
+If cultures contain few attached cells, but high amounts of cell debris, medium should be
+exchanged without prior cell detachment. Cultures usually recover fast.
+Depending on the host cell strain, the bacteria may cause host cell lysis. To maintain
+such cultures, bacteria have to be transferred by adding culture supernatant
+(approximately 0.5 ml) to fresh culture flasks containing uninfected host cells
+(approximately semi-confluent culture) each 7-10 days.
+
+Storage
+Bacteria released from host cells can be stored in
+
+Sucrose-Phosphate-Glutamate buffer
+Sucrose                                                            75         g
+KH2PO4                                                             0.52       g
+Na2HPO4 x 2H2O                                                     1.53       g
+Glutamic acid                                                      0.75       g
+Distilled water                                                    1000       ml
+
+at -80°C for several months.
+
+Infected cell cultures (supplemented with 10% DMSO) are best stored in liquid nitrogen.
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+

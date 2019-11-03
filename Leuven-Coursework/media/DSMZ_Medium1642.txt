@@ -1,0 +1,77 @@
+1642. T+ MEDIUM
+
+
+
+
+T+
+                             g/L
+      Minerals
+                             [g]
+        NaCl                 24,5
+   MgCl2 * 6H2O              4,1
+         KCl                 0,75
+   Mg4SO2 * 7H2O             6,0
+    CaCl2 * 2H2O             1,5
+
+
+Adjust to 1000mL with mQ water and autoclave.
+
+
+After cooling, add the following filter sterilized
+components
+                           Volume           Stock Solutions
+      Minerals
+                            [mL/L]                [g/L]
+       NaNO3                 5,0                 300
+      NaHCO3                 4,0                52,5
+        KBr                  2,0                57,85
+        NaF                  2,0                1,45
+       T-Mix                 2,0                  -
+ T-Trace Metal Mix           1,0                  -
+   T-Vitamin Mix             1,0                  -
+
+
+
+
+© 2017 DSMZ GmbH - All rights reserved
+              Stock Solutions
+
+
+
+                                   [g/L]
+              K2HPO4 * 3H2O        3,4
+   T-Mix          Na2CO3           7,95
+              Fe‐NH4‐citrate       0,75
+
+
+                                  [mL/L]
+               Thiamine‐HCl        1,0     0,1g/10mL stock sol.
+ T-Vitamins       d‐biotin                 0,2g/100mL stock sol.
+                                  0,025
+    Mix:
+               Vitamin B12         2,5     20mg/L stock sol.
+
+
+
+                                   [g/L]     [ml/L]
+                  H3BO3            35,9        -
+                SrCl2 *6H2O        17,3        -
+                    LiCl           1,1         -
+                   EDTA            0,74        -
+  T-Trace      FeCl3 * 6H2O        0,11        -
+   Metal                             -                0,4g/100mL stock sol.
+               MnCl2 * 4H2O                   1,0
+    Mix
+               ZnSO4 * 7H2O          -        1,0     0,12g/100mL stock sol.
+               CoCl2 * 6H2O          -        0,1     0,6g/100mL stock sol.
+                Na2MoO4 *            -                0,27g/100mL stock sol.
+                                              1,0
+                  2H2O
+               CuSO4 * 5H2O          -       0,032    0,8g/100mL stock sol.
+                 Na2SeO3             -        0,05    210,4mg/L stock sol.
+
+
+
+
+© 2017 DSMZ GmbH - All rights reserved
+

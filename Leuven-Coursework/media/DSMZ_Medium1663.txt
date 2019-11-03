@@ -1,0 +1,46 @@
+1663. BSM medium
+
+NaCl                                                               3.62        g
+K2HPO4                                                             0.26        g
+(NH4)Cl                                                            0.08        g
+NaNO3                                                              0.85        g
+Na2SO4                                                             0.05        g
+Trace element solution (see below)                                 1.00       ml
+Vitamin solution (see medium 141)                                 10.00       ml
+Na-DL-lactate                                                      1.12        g
+Yeast extract                                                      0.20        g
+Distilled water                                                  936.50       ml
+
+NaHCO3 (8%)                                                        52.50      ml
+
+Dissolve ingredients (except vitamins and trace elements) in distilled water; boil for 1- 2
+minutes and cool down to room temperature under 100% N2 gas, dispense in culture
+vessels and autoclave. After sterilization add NaHCO3, vitamins, and trace elements
+from sterile anoxic stock solutions prepared under 100% N2. Adjust pH to 8.2 and add
+sodium sulfide (Na2S) from a sterile anoxic solution to achieve a final concentration of
+100 µM prior inoculation.
+
+
+
+Trace element solution
+ HCl (25%; 7.7 M)                                                 10.00       ml
+ FeCl2 x 4 H2O                                                     1.50        g
+ MgCl2 x 6 H2O                                                     3.00        g
+ CaCl2 x 2 H2O                                                     0.10        g
+ ZnCl2                                                            70.00       mg
+ MnCl2 x 4 H2O                                                   100.00       mg
+ H3BO3                                                             6.00       mg
+ CoCl2 x 6 H2O                                                   190.00       mg
+ CuCl2 x 2 H2O                                                     2.00       mg
+ NiCl2 x 6 H2O                                                    24.00       mg
+ Na2MoO4 x 2 H2O                                                  36.00       mg
+ Distilled water                                                 990.00       ml
+
+First dissolve FeCl2 in the HCl, then dilute in water, add and dissolve the other salts.
+Finally make up to 1000.0 ml.
+
+
+
+
+© 2014 DSMZ GmbH - All rights reserved
+

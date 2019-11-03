@@ -1,0 +1,79 @@
+1615. Basic mineral medium
+
+
+20 mM K-P-Buffer:
+0.1 M K2HPO4 130 ml
+0.1 M KH2PO4 70 ml
+a. dest      800 ml
+pH 7.0-7.2
+
+Sterilize at 121C for 20 minutes in 1L Schott bottle
+
+After sterilization add from sterile stock solutions:
+ 1.0 ml/l 1 M Mg SO4x7H2O (1 mM),
+10.0ml/l 1 M sodium acetate (10 mM),
+ 1.0 ml/l 5% CaCl2x2H2O (might result in colloid formation, especially when added into
+hot medium, but dissolves after vigorous shaking),
+ 1.0 ml/l 2 M sodium aspartate (2 mM),
+ 1.0 ml/l Trace elements (see below),
+ 0.5 ml/l Vitamins ( see below) and
+ 1.0 ml/l 50 mM L-methionine, filter sterilized, neutralised (50 µM).
+
+
+
+
+Trace element solution:
+ EDTA                                                           5.00       g
+ FeSO4 x 7 H2O                                                  2.00       g
+ ZnSO4                                                          0.10       g
+ MnCl2                                                          0.03       g
+ H3BO3                                                          0.30       g
+ CoCl2 x 6 H2O                                                  0.20       g
+ CuCl2 x 5 H2O                                                  0.01       g
+ NiCl2 x 6 H2O                                                  0.02       g
+ Na2MoO4 x 2 H2O                                                0.02       g
+ Distilled water                                             1000.00      ml
+
+Final pH 3.0-4.0 (with HCl).
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+                                                                  Continued on next page
+
+
+
+
+Vitamin mix
+
+1: Acidic thiamine / Ca pantothenate solution
+ Thiamine                                                          5.0     mg
+ Ca pantothenate                                                   5.0     mg
+ Distilled water acidified to pH 3.0 with HCl                    100.0     ml
+
+2: Basic vitamin solution
+ Biotin                                                            2.0     mg
+ PABA (p-aminobenzoic acid)                                        5.0     mg
+ Nicotinic acid                                                    5.0     mg
+ Pyridoxine                                                       10.0     mg
+ 0.1N NaOH)                                                      100.0     ml
+
+3: Neutral folic acid / riboflavin solution
+ Folic acid                                                        2.0     mg
+ Riboflavin                                                        5.0     mg
+ Distilled water                                                 100.0     ml
+
+4: Neutral B12 solution
+ B12                                                               0.5     mg
+ Distilled water                                                 100.0     ml
+
+Sterilize by filtration.
+Mix the four solutions in the ratio1:1:1:1 and 1.0 ml/L or separately add 250 µl/L. of
+each solution.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

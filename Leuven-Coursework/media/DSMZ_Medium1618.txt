@@ -1,0 +1,26 @@
+1618. TRYPTONE YEAST EXTRACT GLUCOSE MEDIUM (TYG)
+
+
+Tryptone                                    1.00    g
+Yeast extract                               1.00    g
+D-glucose                                   0.50    g
+KCl                                         6.34    g
+NaCl                                        1.20    g
+MgSO4 x 7 H2O                               0.25    g
+K2HPO4                                      0.13    g
+CaCl2 x 2 H2O                               0.22    g
+K2SO4                                       0.17    g
+Na2SO4                                      2.40    g
+NaHCO3                                      0.50    g
+Na2CO3                                      0.09    g
+Fe EDTA                                     0.07    g
+Agar                                       20.00    g
+Distilled water                          1000.00   ml
+
+Adjust pH to 7.0
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

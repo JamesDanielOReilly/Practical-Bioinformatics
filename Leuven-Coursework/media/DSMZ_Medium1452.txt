@@ -1,0 +1,20 @@
+1452. AQUISALIMONAS MEDIUM T5
+
+Mineral Salts Solution:
+ Tryptone                                                        0.5       g
+ Yeast Extract                                                   2.0       g
+ Glucose                                                         5.0       g
+ NaCl                                                          100.0       g
+ CaCO3                                                           1.0       g
+ Distilled Water                                              1000.0      ml
+
+
+
+Adjust to pH 7.0 and sterilize by autoclaving. The medium may be solidified by adding
+20.0 g/l agar.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

@@ -1,0 +1,23 @@
+1461. SALINIVIBRIO SHARMENSIS MEDIUM
+
+
+NaCl                                                        100.00       g
+Tri-Na citrate                                                3.00       g
+MgSO4 x 7 H2O                                                 1.00       g
+KCl                                                           2.00       g
+Na2CO3                                                        3.00       g
+MnCl2 x 4 H2O (0.36 g/l)                                      1.00      ml
+FeSO4 x 7 H2O (50 g/l)                                        1.00      ml
+Yeast extract (Difco)                                        10.00       g
+Distilled water                                            1000.00      ml
+
+Final pH 9.0
+Add all the components together, except Na2CO3 which is added from a sterilized stock
+solution when the autoclaved medium has cooled. Agar is added at a concentration of 20
+g/l for solid media and should be cooled to about 55°C before the Na2CO3.is added.
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

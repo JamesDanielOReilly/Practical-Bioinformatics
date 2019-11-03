@@ -1,0 +1,34 @@
+1470. MODIFIED CASTENHOLZ MEDIUM
+
+
+Nitrilotriacetic acid (Titriplex I)       100.00   mg
+MgSO4 x 7 H2O                             100.00   mg
+CaSO4 x 2 H2O                              60.00   mg
+NaCl                                        8.00   mg
+NaNO3                                     689.00   mg
+KNO3                                      103.00   mg
+Na2HPO4 x 2 H2O                           111.00   mg
+Tryptone (Oxoid)                            5.00    g
+Peptone (BD)                                5.00    g
+Sucrose                                     2.00    g
+FeCl3 x 6 H2O (w/v=1%)                      2.80   mL
+Nitsch Element Solution                     1.00   mL
+Distilled water                          1000.00   ml
+
+Adjust pH to 8.2 with NaOH.
+
+Nitsch Element Solution:
+H2SO4                                       5.00   mL
+MnSO4 x H2O                                 2.20   mg
+ZnSO4 x 7 H2O                               0.50   mg
+H3BO3                                       0.50   mg
+CuSO4 x 5 H2O                              16.00   μg
+Na2MoO4 x 2 H2O                            25.00   μg
+CoCl2 x 6 H2O                              46.00   μg
+Distilled water                          1000.00   ml
+
+
+
+
+© 2007 DSMZ GmbH - All rights reserved
+

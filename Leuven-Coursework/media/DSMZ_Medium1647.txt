@@ -1,0 +1,66 @@
+1647. ACETOBACTEROIDES MEDIUM
+
+Yeast extract                                                   0.20       g
+Glucose                                                         0.18       g
+KH2PO4                                                          0.14       g
+MgCl2 x 6 H2O                                                   0.20       g
+CaCl2 x 2 H2O                                                   0.15       g
+NH4Cl                                                           0.54      ml
+Cysteine-HCl x H2O                                              0.30       g
+NaHCO3                                                          2.50       g
+Na2S x 9 H2O                                                    0.30       g
+Resazurin                                                       1.00      mg
+Vitamin solution (see below)                                       1      ml
+Trace element solution (see below)                              1.00      ml
+Se/W solution (see below)                                       1.00      ml
+Distilled water                                              1000.00      ml
+
+
+
+The vitamin solution, trace element solution, Se/W solution, cysteine, glucose, Na2S and
+NaHCO3 are added after the medium has been autoclaved.
+
+
+
+Trace element solution (modified; for preparation see Medium 318):
+ Nitrilotriacetic acid (NTA)                                  12.80        g
+ FeCl2 x 4 H2O                                                 1.00        g
+ MnCl2 x 4 H2O                                                 0.10        g
+ CoCl2 x 6 H2O                                                 0.03        g
+ CaCl2 x 2 H2O                                                 0.10        g
+ ZnCl2                                                         0.10        g
+ CuCl2                                                         0.02        g
+ H3BO3                                                         0.01        g
+ Na2MoO4 x 2 H2O                                               0.03        g
+ NiCl2 x 6 H2O                                                 0.10        g
+ Distilled water                                            1000.00       ml
+
+
+
+Se/W solution:
+ Na2SeO3                                                         4.0      mg
+ Na2WO4                                                          4.0      mg
+ Distilled water                                             1000.00      ml
+
+
+
+Vitamin solution (for preparation see Medium 141):
+ Biotin                                                          2.00     mg
+ Folic acid                                                      2.00     mg
+
+© 2009 DSMZ GmbH - All rights reserved
+Pyridoxine-HCl                             10.00   mg
+Thiamine-HCl x 2 H2O                        5.00   mg
+Riboflavin                                  5.00   mg
+Nicotinic acid                              5.00   mg
+D-Ca-pantothenate                           5.00   mg
+Vitamin B12                                 0.10   mg
+p-Aminobenzoic acid                         5.00   mg
+Lipoic acid                                 5.00   mg
+Distilled water                          1000.00   ml
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+

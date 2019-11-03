@@ -1,0 +1,22 @@
+1492. HALF STRENGTH R2A
+
+
+Yeast extract                                                  0.250       g
+Proteose Peptone (Difco no. 3)                                 0.250       g
+Casamino acids                                                 0.250       g
+Glucose                                                        0.250       g
+Soluble starch                                                 0.250       g
+Na-pyruvate                                                    0.250       g
+K2HPO4                                                         0.150       g
+MgSO4 x 7 H2O                                                 0.0250       g
+Agar                                                           15.00       g
+Distilled water                                              1000.00      ml
+
+Final pH 7.2; adjust with crystalline K2HPO4 or KH2PO4 before adding agar. Add agar,
+heat medium to boiling to dissolve agar, and autoclave for 15 min at 121C.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

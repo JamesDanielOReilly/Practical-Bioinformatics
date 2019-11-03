@@ -1,0 +1,40 @@
+1486. GBS salts modified for Thermocrinis jamiesonii
+
+NaH2PO4                                                      1.380       g
+NaCl                                                         3.000       g
+NH4Cl                                                        0.107       g
+CaCl2 x 2 H2O                                                0.015       g
+MgSO4 x 7 H2O                                                0.123       g
+KCl                                                          0.150       g
+Na2SO4                                                       0.300       g
+Mineral solution                                              5.00      ml
+Distilled water                                            1000.00      ml
+Final pH 7.25
+
+
+
+Mineral solution :
+ EDTA-Na2                                                   3.7000       g
+ FeSO2 x 7 H2O                                              1.1000       g
+ ZnSO4 x 7 H2O                                              0.0288       g
+ MnCl2 x 4 H2O                                              0.0984       g
+ H3BO3                                                      0.0310       g
+ CoCl2 x 6 H2O                                              0.0238       g
+ CuCl2 x 2 H2O                                              0.0172       g
+ NaMoO4 x 2 H2O                                             0.0242       g
+ Distilled water                                            1000.0      ml
+
+Adjust pH to 6.0 with KOH
+
+Prepare the medium under a nitrogen atmosphere. Dispense 5 ml into 25 ml tubes fitted
+with rubber stoppers.
+Autoclave 121°C 20 min and add 2mM (final concentration) sodium acetate trihydrate,
+2mM (final concentration)sodium thiosulfate pentahydrate and 1mM (final concentration)
+sodium bicarbonate from anaerobic, autoclaved stock solutions(100x).
+Before inoculation 2% sterile O2 or 10% sterile air is added to the headspace.
+
+
+
+
+© 2012 DSMZ GmbH - All rights reserved
+

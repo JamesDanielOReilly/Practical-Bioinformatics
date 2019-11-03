@@ -1,0 +1,76 @@
+1457. ALCALILIMNICOLA EHRLICHII MHLE-1 MEDIUM
+
+
+Solution A:
+
+(NH4)2SO4                                   0.10    g
+MgSO4                                      25.00   mg
+NaCl                                       60.00    g
+K2HPO4                                      0.15    g
+KH2PO4                                      0.08    g
+Trace element solution SL-10                5.00   ml
+0.1 mM Tungstate                            0.30   ml
+Vitamin solution                            1.00   ml
+Distilled water                           490.00   ml
+
+
+
+Solution B:
+
+Na2CO3                                     10.60    g
+NaHCO3                                      4.20    g
+Distilled water                           500.00   ml
+
+
+
+Solution C:
+
+1M Na-acetate                              10.00   ml
+
+
+
+Vitamin solution:
+ Biotin                                     2.00   mg
+ Folic acid                                 2.00   mg
+ Pyridoxine-HCl                            10.00   mg
+ Thiamine-HCl x 2 H2O                       5.00   mg
+ Riboflavin                                 5.00   mg
+ Nicotinic acid                             5.00   mg
+ D-Ca-pantothenate                          5.00   mg
+ Vitamin B12                                0.10   mg
+ p-Aminobenzoic acid                        5.00   mg
+ Lipoic acid                                5.00   mg
+ Distilled water                         1000.00   ml
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+Trace element solution SL-10:
+ HCl (25%; 7.7 M)                                                 10.00       ml
+ FeCl2 x 4 H2O                                                     1.50        g
+ ZnCl2                                                            70.00       mg
+ MnCl2 x 4 H2O                                                   100.00       mg
+ H3BO3                                                             6.00       mg
+ CoCl2 x 6 H2O                                                   190.00       mg
+ CuCl2 x 2 H2O                                                     2.00       mg
+ NiCl2 x 6 H2O                                                    24.00       mg
+ Na2MoO4 x 2 H2O                                                  36.00       mg
+ Distilled water                                                 990.00       ml
+
+First dissolve FeCl2 in the HCl, then dilute in water, add and dissolve the other salts.
+Make up to a final volume of 1000.0 ml.
+
+Autoclave solution A without the vitamin solution. Autoclave solution B in half full, closed
+bottles. Autoclave solution C. Combine the sterile solutions A, B, and C after cooling.
+Aseptically add 1.0 ml of the vitamin solution (filter sterilized) to 1 litre of the sterile
+medium.
+Adjust to pH 9.8. The medium may be solidified by adding 20 g/l agar, but care should
+be taken that the temperature of the solutions to be mixed are about 50°C, otherwise
+the agar will darken and degrade.
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+

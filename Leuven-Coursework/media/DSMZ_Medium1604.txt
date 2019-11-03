@@ -1,0 +1,28 @@
+1604. ATHALASSOTOGA MEDIUM
+
+
+Fe(III)-citrate                                                       2.40     g
+(NH4)2SO4                                                             0.20     g
+KH2PO4                                                                3.00     g
+MgSO4 x 7 H2O                                                         0.50     g
+CaCl2 x 2 H2O                                                         0.25     g
+Yeast extract (OXOID)                                                 0.50     g
+Allen’s trace element solution (see medium 88)                       10.00    ml
+FeCl2 x 4 H2O                                                         0.26     g
+Vitamins solution (see medium 141)                                   10.00    ml
+L-Cysteine-HCl x H2O                                                  0.04     g
+Distilled water                                                    1000.00    ml
+
+First dissolve ferric citrate in water by heating and adjust to pH 6.0, then add other
+medium ingredients except ferrous chloride, vitamins and cysteine. Sparge medium with
+80% N2 and 20% CO2 gas mixture for 30 – 45 min to make it anoxic, then dispense
+medium under same gas atmosphere into anoxic Hungate-type tubes or serum vials and
+autoclave. Add ferrous chloride (dissolved in 0.1 N HCl), vitamins (sterilized by filtration)
+and cysteine from sterile anoxic stock solutions prepared under 100% N2 gas. Prior to
+inoculation check pH and adjust to 6.0, if necessary.
+
+
+
+
+© 2016 DSMZ GmbH - All rights reserved
+

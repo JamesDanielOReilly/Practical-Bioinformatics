@@ -1,0 +1,45 @@
+1644. AB+ MEDIUM
+
+
+
+                             Volume            Stock Solutions
+       Minerals
+                             [mL/L]                 [g/L]
+         NaCl                   50                   250
+    MgCl2 * 6H2O               5,0                   200
+          KCl                  5,0                    50
+    MgSO4 * 7H2O               5,0                   7,5
+    MgSO4 * 7H2O               5,0                   350
+     CaCl2 * 2H2O              5,0                   3,6
+     CaCl2 * 2H2O              5,0                    50
+  Na3‐citrate * 2H2O           7,5                   0,6
+  Na2‐EDTA * 2H2O              7,5                   0,1
+   Trace metal mix             1,0                    -
+
+
+
+Adjust to 1000mL with mQ water and autoclave.
+
+
+After cooling, add the following filter sterilized components
+
+                             Volume            Stock Solutions
+       Minerals
+                             [mL/L]                 [g/L]
+        NaNO3                  3,75                  300
+   K2HPO4 * 3H2O               3,5                   8,0
+       Na2CO3                  1,0                    20
+    Fe‐NH4‐citrate            0,376                  6,0
+     Vitamin B12               1,0                   0,02
+AB +    Stock solution
+
+
+                         [g/L]   [ml/L]
+            H3BO3        2,86      <-
+
+Trace    MnCl2 *4H2O     1,81      <-
+metal    ZnSO4 *7H2O     0,22      <-
+ Mix    Na2MoO4 *2H2O    0,39      <-
+         CuSO4 *5H2O      ->     10 ml    0,8g/100mL Stocklsg.
+        Co(NO3)2 *6H2O    ->     10 ml    0,5g/100mL Stocklsg.
+

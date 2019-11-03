@@ -1,0 +1,19 @@
+1484. Glycerol-Yeast extract-Peptone Medium
+
+Bacto-peptone                                   3.0    g
+Yeast extract                                   5.0    g
+Betaine                                        1.25    g
+Sodium pyruvate                                1.25    g
+(Agar, if needed                               15.0    g
+Trace element solution (see medium 141)        10.0   ml
+Vitamin solution (see medium 141)              10.0   ml
+Glycerol                                       10.0   ml
+Distilled water                               970.0   ml
+
+Adjust to pH 7.2
+
+
+
+
+© 2009 DSMZ GmbH - All rights reserved
+

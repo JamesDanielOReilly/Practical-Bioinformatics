@@ -1,0 +1,47 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+gi|1474573489|gb|AXX03228.1|:1-354      ------------------------------------------------------------
+RAD51                                   MSQVQEQHISESQLQYGNGSLMSTVPADLSQSVVDGNGNGSSEDIEATNGSGDGGGLQEQ
+tr|E9PJ30|E9PJ30_HUMAN                  ----------------------------------------------------MAMQMQLE
+                                                                                                    
+
+gi|1474573489|gb|AXX03228.1|:1-354      ------------------------------------------------------------
+RAD51                                   AEAQGEMEDEAYDEAALGSFVPIEKLQVNGITMADVKKLRESGLHTAEAVAYAPRKDLLE
+tr|E9PJ30|E9PJ30_HUMAN                  ANADTSVEEES-----F-GPQPISRLEQCGINANDVKKLEEAGFHTVEAVAYAPKKELIN
+                                                                                                    
+
+gi|1474573489|gb|AXX03228.1|:1-354      -MAIDENKQK-ALAAALGQIEKQFGKGSIMRLGEDRTMDVETISTGSLSLDIALGAGGLP
+RAD51                                   IKGISEAKADKLLNEAARLVPMGFVTAADF---HMRRSELICLTTGSKNLDTLL-GGGVE
+tr|E9PJ30|E9PJ30_HUMAN                  IKGISEAKADKILAEAAKLVPMGFTTATEF---HQRRSEIIQITTGSKELDKLL-QGGIE
+                                          .*.* * .  *  *   :   * ..: :   . *  ::  ::*** .**  *  **: 
+
+gi|1474573489|gb|AXX03228.1|:1-354      MGRIVEIYGPESSGKTTLTLQ------VIAAAQRAGKTCAFIDAEHALDPVYAR----KL
+RAD51                                   TGSITELFGEFRTGKSQLCHTLAVTCQIPLDIGGGEGKCLYIDTEGTFRPVRLVSIAQRF
+tr|E9PJ30|E9PJ30_HUMAN                  TGSITEMFGEFRTGKTQICHTLAVTCQVWSLWQ---------------------------
+                                         * *.*::*   :**: :         :                                
+
+gi|1474573489|gb|AXX03228.1|:1-354      GVDIDNLLCSQ----PDTGEQALEICDA---LARSGAVDVLVVDSVAALTPK-AEIEGEI
+RAD51                                   GLDPDDALNNVAYARAYNADHQLRLLDAAAQMMSESRFSLIVVDSVMALYRTDFSGRGEL
+tr|E9PJ30|E9PJ30_HUMAN                  ------------------------------------------------------------
+                                                                                                    
+
+gi|1474573489|gb|AXX03228.1|:1-354      GDSHMGLAARMMSQAMRKLAGNLKNSNTLLIFINQIRM--KIGVMF-GNPETTTGGNALK
+RAD51                                   SARQMHLAKFM--RALQRLADQF---GVAVVVTNQVVAQVDGGMAFNPDPKKPIGGNIMA
+tr|E9PJ30|E9PJ30_HUMAN                  ------------------------------------------------------------
+                                                                                                    
+
+gi|1474573489|gb|AXX03228.1|:1-354      FYASVRLDIRRIGAVKEGEEVVGSETRVKVVKNKVAAPFKQAEFQILYGEGINFYGELVD
+RAD51                                   HSSTTRLGFKKGKGCQR---------LCKVVD-SPCLPEAECVF-AIYEDGVGDPREEDE
+tr|E9PJ30|E9PJ30_HUMAN                  ------------------------------------------------------------
+                                                                                                    
+
+gi|1474573489|gb|AXX03228.1|:1-354      LGVKHKLIEKAGAWYSYNGEKIGQGKANATNFLKENKPMADEIEKKLRDMLLNNQDSTPD
+RAD51                                   *-----------------------------------------------------------
+tr|E9PJ30|E9PJ30_HUMAN                  ------------------------------------------------------------
+                                                                                                    
+
+gi|1474573489|gb|AXX03228.1|:1-354      FTVDDNDGGVEETNEEF
+RAD51                                   -----------------
+tr|E9PJ30|E9PJ30_HUMAN                  -----------------
+                                                         

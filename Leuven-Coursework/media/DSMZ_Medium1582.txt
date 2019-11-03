@@ -1,0 +1,19 @@
+1582. MELISSOCOCCUS PLUTONIUS MEDIUM
+
+ KH2PO4                                                       13.5       g
+ Yeast extract                                                10.0       g
+ Glucose                                                      10.0       g
+ Soluble starch                                               10.0       g
+ Cysteine hydrochloride                                        1.0       g
+ add deionized water to                                     1000.0      ml
+
+
+
+Adjust pH to 6.6 with NaOH. Boil medium and cool under N2, distribute under N2 and
+sterilize by autoclaving at 121°C for 20 minutes.
+
+
+
+
+© 2010 DSMZ GmbH - All rights reserved
+
