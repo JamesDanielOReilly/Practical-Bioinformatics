@@ -17,4 +17,4 @@ function names_numbers_spaces () {
   grep -rL "$substance" media | grep -rh "^[0-9][0-9][0-9][0-9]\."
 }
 
-names_numbers_spaces Yeast extract
+# names_numbers_spaces Yeast extract
