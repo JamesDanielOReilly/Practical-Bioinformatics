@@ -25,5 +25,5 @@ echo 'Number of mutations on exons: ' $mut_exon
 # effect column that or not synonymous.
 
 non_syn_effects=$( awk '( $8=="coding_exon" && $11!="synonymous" )'\
-                  $file | cut -f11 | sort | uniq )
+                   $file | cut -f11 | sort | uniq )
 echo 'Types of non-synonymous mutations: '$non_syn_effects
