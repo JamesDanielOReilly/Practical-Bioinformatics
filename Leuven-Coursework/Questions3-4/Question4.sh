@@ -7,7 +7,14 @@
 # lists the names and numbers of the media that don't contain this substance.
 
 function names_numbers () {
-  grep -rL "$1" media | grep -rh "^[0-9][0-9][0-9][0-9]\." # paths of files that do not contain the substance
+  grep -rL "$1" media | grep -rh "^[0-9][0-9][0-9][0-9]\."
 }
 
 names_numbers "Yeast extract"
+
+function names_numbers_spaces () {
+  substance="'$*'"
+  grep -rL "$substance" media | grep -rh "^[0-9][0-9][0-9][0-9]\."
+}
+
+names_numbers_spaces Yeast extract
