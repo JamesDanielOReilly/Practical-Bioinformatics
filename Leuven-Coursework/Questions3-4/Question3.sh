@@ -8,7 +8,7 @@ file='mmp_mut_strains.txt'     # file variable
 # Question: How many chromosomes are there in the dataset?
 # Solution: Return the number of unique elements in the chromosome column
 
-no_chr=$( cut -f4 $file | sed "1 d"| sort | uniq | wc -l )
+no_chr=$( cut -f4 $file | sed "1 d"| sort | uniq | grep -v '[+a-z]' | wc -l )
 echo 'Number of chromosomes: ' $no_chr
 
 # Question: How many mutations are on introns and exons?
