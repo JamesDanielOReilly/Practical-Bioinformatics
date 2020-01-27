@@ -19,3 +19,16 @@ awk '{print $1}' mmp_mut_strains.txt | head -n 1 #returns column one (any amount
 awk '{print $1,3}' mmp_mut_strains.txt | head -n 1
 awk '( $1=="coding_exon" && $11!="synonymous" )' mmp_mut_strains.txt
 cut -f4 mmp_mut_strains.txt | head -n 10
+
+# sort -k2 -n file
+
+function names_numbers () {
+  grep -rL "$1" media | grep -rh "^[0-9][0-9][0-9][0-9]\."
+}
+
+no_chr=$( cut -f4 $file | sed "1 d"| sort | uniq | grep -v '[+a-z]' | wc -l )
+echo 'Number of chromosomes: ' $no_chr | tee -a script-outputs.txt
+
+non_syn_effects=$( awk '( $8=="coding_exon" && $11!="synonymous" )'\
+                   $file | cut -f11 | sort | uniq )
+echo 'Types of non-synonymous mutations: ' $non_syn_effects
